@@ -9,7 +9,7 @@ final class DataStore: ObservableObject {
     /// データ取得元のベースURL（GitHubリポジトリの Data フォルダを raw で指す）。
     /// 自分のリポジトリを作ったら YOUR_GITHUB_NAME を自分のアカウント名に書き換える。
     /// アプリの設定画面からも変更できる。
-    static let defaultBaseURL = "https://raw.githubusercontent.com/YOUR_GITHUB_NAME/keiba-summary-app/main/Data"
+    static let defaultBaseURL = "https://raw.githubusercontent.com/Yuto1336/keiba-summary-app/main/Data"
 
     private let defaultsKey = "dataBaseURL"
 
