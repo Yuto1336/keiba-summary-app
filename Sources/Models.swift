@@ -52,3 +52,55 @@ struct Horse: Codable, Identifiable {
         return "人気不明"
     }
 }
+
+// MARK: - レース前展望
+
+struct PreviewIndex: Codable {
+    let weekends: [String]
+}
+
+struct PreviewDay: Codable, Identifiable {
+    /// 週末の土曜の日付（キー）
+    let weekend: String
+    let races: [PreviewRace]
+    var id: String { weekend }
+
+    /// 日付ごとにグループ化（元の並び順を維持）
+    var dateGroups: [(date: String, races: [PreviewRace])] {
+        var order: [String] = []
+        var dict: [String: [PreviewRace]] = [:]
+        for race in races {
+            if dict[race.date] == nil { order.append(race.date) }
+            dict[race.date, default: []].append(race)
+        }
+        return order.map { (date: $0, races: dict[$0] ?? []) }
+    }
+}
+
+struct PreviewRace: Codable, Identifiable {
+    let date: String
+    let venue: String
+    let raceNumber: Int
+    let raceName: String
+    let surface: String
+    let distance: Int
+    let startTime: String
+    let courseTrait: String
+    let pace: String
+    let favored: String
+    let notes: [String]
+    let horses: [PreviewHorse]
+    var id: String { "\(date)-\(venue)-\(raceNumber)" }
+    var courseLabel: String { "\(surface)\(distance)m" }
+}
+
+struct PreviewHorse: Codable, Identifiable {
+    let number: Int?
+    let bracket: Int?
+    let name: String
+    let jockey: String
+    let style: String
+    let comment: String
+    var id: String { name }
+    var numberLabel: String { number.map { String($0) } ?? "—" }
+}
