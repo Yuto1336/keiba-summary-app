@@ -1,7 +1,36 @@
 import SwiftUI
 
+/// "2026-11-14" → "11月14日（土）"
+func jpDateLabel(_ isoDate: String) -> String {
+    let parser = DateFormatter()
+    parser.locale = Locale(identifier: "en_US_POSIX")
+    parser.dateFormat = "yyyy-MM-dd"
+    guard let date = parser.date(from: isoDate) else { return isoDate }
+    let formatter = DateFormatter()
+    formatter.locale = Locale(identifier: "ja_JP")
+    formatter.dateFormat = "M月d日（EEE）"
+    return formatter.string(from: date)
+}
+
 struct ContentView: View {
     @StateObject private var store = DataStore()
+
+    var body: some View {
+        TabView {
+            ResultsHomeView()
+                .environmentObject(store)
+                .tabItem { Label("結果", systemImage: "list.bullet.rectangle") }
+            PreviewHomeView()
+                .environmentObject(store)
+                .tabItem { Label("展望", systemImage: "eye") }
+        }
+    }
+}
+
+// MARK: - 結果まとめ
+
+struct ResultsHomeView: View {
+    @EnvironmentObject var store: DataStore
     @State private var showingSettings = false
 
     var body: some View {
@@ -17,7 +46,7 @@ struct ContentView: View {
                         DayView(date: date).environmentObject(store)
                     } label: {
                         VStack(alignment: .leading, spacing: 2) {
-                            Text(date).font(.headline)
+                            Text(jpDateLabel(date)).font(.headline)
                             Text("全レース結果まとめ").font(.footnote).foregroundStyle(.secondary)
                         }
                     }
@@ -85,7 +114,7 @@ struct DayView: View {
                 ProgressView("読み込み中…")
             }
         }
-        .navigationTitle(date)
+        .navigationTitle(jpDateLabel(date))
         .navigationBarTitleDisplayMode(.inline)
         .task { day = await store.loadDay(date) }
     }
@@ -144,6 +173,147 @@ struct RaceView: View {
     }
 }
 
+// MARK: - レース前展望
+
+struct PreviewHomeView: View {
+    @EnvironmentObject var store: DataStore
+    @State private var showingSettings = false
+
+    var body: some View {
+        NavigationStack {
+            List {
+                if store.previewWeekends.isEmpty {
+                    Text("展望データがまだありません")
+                        .font(.footnote)
+                        .foregroundStyle(.secondary)
+                }
+                ForEach(store.previewWeekends, id: \.self) { weekend in
+                    NavigationLink {
+                        PreviewDayView(weekend: weekend).environmentObject(store)
+                    } label: {
+                        VStack(alignment: .leading, spacing: 2) {
+                            Text("\(jpDateLabel(weekend)) の週末").font(.headline)
+                            Text("メイン・重賞のレース前展望").font(.footnote).foregroundStyle(.secondary)
+                        }
+                    }
+                }
+            }
+            .navigationTitle("レース前展望")
+            .toolbar {
+                ToolbarItem(placement: .topBarTrailing) {
+                    Button {
+                        showingSettings = true
+                    } label: {
+                        Image(systemName: "gearshape")
+                    }
+                }
+            }
+            .sheet(isPresented: $showingSettings) {
+                SettingsView().environmentObject(store)
+            }
+            .task { await store.loadPreviewIndex() }
+            .refreshable { await store.loadPreviewIndex() }
+        }
+    }
+}
+
+struct PreviewDayView: View {
+    @EnvironmentObject var store: DataStore
+    let weekend: String
+    @State private var preview: PreviewDay?
+
+    var body: some View {
+        Group {
+            if let preview {
+                List {
+                    ForEach(preview.dateGroups, id: \.date) { group in
+                        Section(jpDateLabel(group.date)) {
+                            ForEach(group.races) { race in
+                                NavigationLink {
+                                    PreviewRaceView(race: race)
+                                } label: {
+                                    VStack(alignment: .leading, spacing: 2) {
+                                        Text("\(race.raceNumber)R \(race.raceName)")
+                                            .font(.headline)
+                                        Text("\(race.venue)／\(race.courseLabel)／\(race.startTime)発走")
+                                            .font(.footnote)
+                                            .foregroundStyle(.secondary)
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            } else {
+                ProgressView("読み込み中…")
+            }
+        }
+        .navigationTitle("\(jpDateLabel(weekend)) の週末")
+        .navigationBarTitleDisplayMode(.inline)
+        .task { preview = await store.loadPreview(weekend) }
+    }
+}
+
+struct PreviewRaceView: View {
+    let race: PreviewRace
+
+    var body: some View {
+        List {
+            Section("レース概要") {
+                LabeledContent("競馬場", value: race.venue)
+                LabeledContent("コース", value: race.courseLabel)
+                LabeledContent("発走", value: race.startTime)
+                VStack(alignment: .leading, spacing: 4) {
+                    Text("コースで強いタイプ").font(.footnote).foregroundStyle(.secondary)
+                    Text(race.courseTrait)
+                }
+            }
+            Section("想定展開") {
+                Text(race.pace)
+                VStack(alignment: .leading, spacing: 4) {
+                    Text("有利なタイプと注目馬").font(.footnote).foregroundStyle(.secondary)
+                    Text(race.favored)
+                }
+                ForEach(race.notes, id: \.self) { note in
+                    Text(note).font(.footnote).foregroundStyle(.secondary)
+                }
+            }
+            Section("脚質マップ（出走馬）") {
+                ForEach(race.horses) { horse in
+                    VStack(alignment: .leading, spacing: 3) {
+                        HStack(spacing: 6) {
+                            Text(horse.numberLabel)
+                                .font(.headline)
+                                .foregroundStyle(.secondary)
+                                .frame(minWidth: 22, alignment: .leading)
+                            Text(horse.name).font(.headline)
+                            Text(horse.style)
+                                .font(.caption)
+                                .fontWeight(.semibold)
+                                .padding(.horizontal, 7)
+                                .padding(.vertical, 2)
+                                .background(Color.accentColor.opacity(0.15))
+                                .clipShape(Capsule())
+                            Spacer()
+                        }
+                        Text("騎手: \(horse.jockey)")
+                            .font(.footnote)
+                            .foregroundStyle(.secondary)
+                        if !horse.comment.isEmpty {
+                            Text(horse.comment).font(.callout)
+                        }
+                    }
+                    .padding(.vertical, 2)
+                }
+            }
+        }
+        .navigationTitle("\(race.raceNumber)R \(race.raceName)")
+        .navigationBarTitleDisplayMode(.inline)
+    }
+}
+
+// MARK: - 設定
+
 struct SettingsView: View {
     @EnvironmentObject var store: DataStore
     @Environment(\.dismiss) private var dismiss
@@ -160,12 +330,15 @@ struct SettingsView: View {
                 } header: {
                     Text("データ取得元（index.json のあるフォルダのURL）")
                 } footer: {
-                    Text("GitHubリポジトリの Data フォルダを raw.githubusercontent.com で指します。新しい日のまとめJSONが置かれると、アプリ起動時に自動で取りに行きます。")
+                    Text("GitHubリポジトリの Data フォルダを raw.githubusercontent.com で指します。新しい日のまとめ・展望JSONが置かれると、アプリ起動時に自動で取りに行きます。")
                 }
                 Button("保存して再読み込み") {
                     store.baseURLString = urlText
                     dismiss()
-                    Task { await store.loadIndex() }
+                    Task {
+                        await store.loadIndex()
+                        await store.loadPreviewIndex()
+                    }
                 }
             }
             .navigationTitle("設定")
