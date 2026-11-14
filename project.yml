@@ -21,6 +21,8 @@ targets:
       path: Sources/Info.plist
       properties:
         CFBundleDisplayName: 競馬まとめ
+        CFBundleShortVersionString: "1.1"
+        CFBundleVersion: "2"
         UILaunchScreen: {}
         UISupportedInterfaceOrientations:
           - UIInterfaceOrientationPortrait
