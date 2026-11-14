@@ -583,144 +583,144 @@
    "notes": [],
    "horses": [
     {
-     "number": null,
-     "bracket": null,
+     "number": 11,
+     "bracket": 6,
      "name": "アルテヴェローチェ",
      "jockey": "菅原明良",
      "style": "追い込み",
      "comment": "近走は後方から追い込む競馬が続く"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 2,
+     "bracket": 1,
      "name": "エイシンディード",
      "jockey": "川又賢治",
      "style": "逃げ",
      "comment": "常に先頭〜2番手で運ぶスピードタイプ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 15,
+     "bracket": 7,
      "name": "エコロアルバ",
      "jockey": "大野拓弥",
      "style": "差し",
      "comment": "近走は中団が中心も、前走富士Sは先行して3着と自在性がある"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 7,
+     "bracket": 4,
      "name": "カンシン",
      "jockey": "佐々木大輔",
      "style": "差し",
      "comment": "中団から差す競馬が基本"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 4,
+     "bracket": 2,
      "name": "サンダーストラック",
      "jockey": "A.プーシャン",
      "style": "差し",
      "comment": "中団待機で堅実に末脚を伸ばす"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 10,
+     "bracket": 5,
      "name": "セフィロ",
      "jockey": "横山和生",
      "style": "差し",
      "comment": "中団〜後方から差す競馬が続く"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 17,
+     "bracket": 8,
      "name": "タガノアラリア",
      "jockey": "原優介",
      "style": "差し",
      "comment": "中団が中心だが逃げ切り勝ちもあり自在"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 9,
+     "bracket": 5,
      "name": "タマモブラックタイ",
      "jockey": "木幡巧也",
      "style": "追い込み",
      "comment": "後方一気の競馬が持ち味"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 18,
+     "bracket": 8,
      "name": "フォーチュンタイム",
      "jockey": "戸崎圭太",
      "style": "差し",
      "comment": "昨年のこのレースを12番手あたりから差し切った"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 13,
+     "bracket": 7,
      "name": "ブルクトーア",
      "jockey": "亀田温心",
      "style": "差し",
      "comment": "近走の1400mは中団から差す競馬、先行での勝ち星もある"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 5,
+     "bracket": 3,
      "name": "マイネルチケット",
      "jockey": "横山武史",
      "style": "差し",
      "comment": "中団から差す競馬で、同コースのパラダイスS勝ちがある"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 8,
+     "bracket": 4,
      "name": "マサノカナリア",
      "jockey": "M.デムーロ",
      "style": "先行",
      "comment": "好位5番手前後で運ぶことが多い"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 16,
+     "bracket": 8,
      "name": "ミトノオルフェ",
      "jockey": "岩田康誠",
      "style": "差し",
      "comment": "中団から差す競馬が基本"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 6,
+     "bracket": 3,
      "name": "メイショウチタン",
      "jockey": "長浜鴻緒",
      "style": "逃げ",
      "comment": "近走は逃げ一辺倒の9歳馬"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 3,
+     "bracket": 2,
      "name": "ラケマーダ",
      "jockey": "吉田豊",
      "style": "追い込み",
      "comment": "近走は後方待機が多い"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 12,
+     "bracket": 6,
      "name": "ルシード",
      "jockey": "野中悠太郎",
      "style": "先行",
      "comment": "短距離で好位につける競馬が中心"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 1,
+     "bracket": 1,
      "name": "レイベリング",
      "jockey": "石橋脩",
      "style": "先行",
      "comment": "好位で運ぶことが多く、逃げ切り勝ちもある"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 14,
+     "bracket": 7,
      "name": "ロジケープ",
      "jockey": "田辺裕信",
      "style": "差し",
@@ -742,120 +742,120 @@
    "notes": [],
    "horses": [
     {
-     "number": null,
-     "bracket": null,
+     "number": 9,
+     "bracket": 5,
      "name": "オンザライン",
      "jockey": "小崎綾也",
      "style": "先行〜差し",
      "comment": "好位〜中団前で運ぶ競馬が中心"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 2,
+     "bracket": 2,
      "name": "オーケーバーディー",
      "jockey": "横山琉人",
      "style": "逃げ",
      "comment": "条件戦では逃げ切り3連勝、今回は約8か月ぶりの実戦"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 13,
+     "bracket": 7,
      "name": "ゲイルライダー",
      "jockey": "斎藤新",
      "style": "先行",
      "comment": "短距離で先行してきた馬で、距離延長への対応が鍵"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 7,
+     "bracket": 4,
      "name": "ゴッドブルービー",
      "jockey": "角田大和",
      "style": "差し",
      "comment": "中団〜後方から差す競馬が続く"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 15,
+     "bracket": 8,
      "name": "サンライズアリオン",
      "jockey": "藤懸貴志",
      "style": "先行",
      "comment": "好位で運ぶ競馬で、昨年のこのレースでも上位で争った"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 6,
+     "bracket": 4,
      "name": "シュラザック",
      "jockey": "国分優作",
      "style": "先行",
      "comment": "好位で運ぶ競馬が中心で、阿蘇S・平安Sでも上位争い"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 5,
+     "bracket": 3,
      "name": "シンビリーブ",
      "jockey": "松本大輝",
      "style": "先行",
      "comment": "逃げても控えても運べる自在な先行力を持つ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 4,
+     "bracket": 3,
      "name": "スナークラファエロ",
      "jockey": "富田暁",
      "style": "差し",
      "comment": "中団で脚を溜めるタイプ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 11,
+     "bracket": 6,
      "name": "スリーピース",
      "jockey": "石神深道",
      "style": "追い込み",
      "comment": "短距離で後方から追い込む競馬が続き、距離延長が鍵"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 14,
+     "bracket": 8,
      "name": "ドバイブルース",
      "jockey": "石川裕紀人",
      "style": "先行",
      "comment": "好位で運び、福島ダ1700の天の川Sを2番手から制した"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 12,
+     "bracket": 7,
      "name": "ホールシバン",
      "jockey": "秋山稔樹",
      "style": "追い込み",
      "comment": "後方から追い込む競馬一辺倒"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 8,
+     "bracket": 5,
      "name": "モンブランミノル",
      "jockey": "小沢大仁",
      "style": "先行",
      "comment": "常に好位で運ぶ安定感がある"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 10,
+     "bracket": 6,
      "name": "レアンダー",
      "jockey": "丸田恭介",
      "style": "逃げ〜先行",
      "comment": "逃げ・先行で運び、逃げ切り勝ちも多い"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 3,
+     "bracket": 2,
      "name": "レヴォントゥレット",
      "jockey": "丸山元気",
      "style": "先行",
      "comment": "好位で運ぶ競馬が中心で、逃げ切り勝ちもある"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 1,
+     "bracket": 1,
      "name": "ワイドブリザード",
      "jockey": "鮫島克駿",
      "style": "逃げ〜先行",
