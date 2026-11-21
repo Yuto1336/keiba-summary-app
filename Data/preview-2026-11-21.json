@@ -298,133 +298,131 @@
    "courseTrait": "ワンターンの1400m戦で直線は約502mと長く、末脚勝負になりやすい。1400m戦は前半のペースが速くなりやすく、流れ次第では前の粘りも見られる。",
    "pace": "逃げはワイワイレジェンド1頭の公算が高く、単騎逃げなら平均〜やや落ち着いた流れになりそう。先行勢はアスクアイルビゼア、サトノボヤージュ、スナッピードレッサ、スマートジュリアスの4頭と厚めで、ワイワイレジェンドがハナを切れば2番手以下は好位で落ち着く形に。東京ダート1400mは直線が長く、ペースが上がれば中団〜後方の差し・追い込み馬にも出番が回ってくる。",
    "favored": "単騎逃げのワイワイレジェンド（欅Sを逃げ切り）、好位で運べるサトノボヤージュ（東京盃2着）、流れが速くなれば末脚が生きるペイシャケイプとヤマニンアストロン。",
-   "notes": [
-    "枠順・馬番は11月20日21時時点でnetkeiba・JRA公式とも未掲載のため、馬名・騎手のみの記載。枠順発表後に要確認。"
-   ],
+   "notes": [],
    "horses": [
     {
-     "number": null,
-     "bracket": null,
+     "number": 11,
+     "bracket": 6,
      "name": "アスクアイルビゼア",
      "jockey": "津村明秀",
      "style": "先行",
      "comment": "2〜5番手の好位で運び、桂川Sは5番手から2着に追い上げた"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 16,
+     "bracket": 8,
      "name": "ヴィヴァン",
      "jockey": "T.マーカンド",
      "style": "差し",
      "comment": "中団で脚をためるタイプで、グリーンCは7番手から運んだ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 12,
+     "bracket": 6,
      "name": "キタノズエッジ",
      "jockey": "古川吉洋",
      "style": "差し",
      "comment": "中団〜後方で運ぶことが多く、南部杯マイルCSは8番手から4着まで追い上げた"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 4,
+     "bracket": 2,
      "name": "サトノカルナバル",
      "jockey": "佐々木大輔",
      "style": "差し",
      "comment": "中団〜後方で運ぶことが多く、藤森Sは11番手から運んだ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 6,
+     "bracket": 3,
      "name": "サトノボヤージュ",
      "jockey": "戸崎圭太",
      "style": "先行",
      "comment": "3番手の好位で運び、東京盃は3番手から2着に粘った"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 5,
+     "bracket": 3,
      "name": "スナッピードレッサ",
      "jockey": "大野拓弥",
      "style": "先行",
      "comment": "3〜6番手の好位で運び、グリーンCは6番手から運んだ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 2,
+     "bracket": 1,
      "name": "スマートジュリアス",
      "jockey": "斎藤新",
      "style": "先行",
      "comment": "3〜5番手の好位で運び、北海道スプリントCは4番手から運んだ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 15,
+     "bracket": 8,
      "name": "ブラウンラチェット",
      "jockey": "丸山元気",
      "style": "差し",
      "comment": "ダートの前走は12番手後方。芝では先行して勝ったこともあるが、ダートでは後方待機型"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 13,
+     "bracket": 7,
      "name": "ブレーザー",
      "jockey": "横山武史",
      "style": "先行〜差し",
      "comment": "中団前で運ぶことが多く、ラジオ日本賞は8番手から運んだ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 7,
+     "bracket": 4,
      "name": "ペイシャケイプ",
      "jockey": "横山典弘",
      "style": "追い込み",
      "comment": "近走は11〜16番手の後方一気型"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 10,
+     "bracket": 5,
      "name": "マピュース",
      "jockey": "横山和生",
      "style": "差し",
      "comment": "中団〜後方で脚をためるタイプで、グリーンCは9番手から運んだ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 9,
+     "bracket": 5,
      "name": "マーゴットゲイン",
      "jockey": "荻野極",
      "style": "差し",
      "comment": "中団で運ぶことが多く、外房Sは8番手から運んだ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 1,
+     "bracket": 1,
      "name": "メリディアンスター",
      "jockey": "鮫島克駿",
      "style": "差し",
      "comment": "中団で運ぶことが多く、神無月Sは9番手から運んだ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 8,
+     "bracket": 4,
      "name": "ヤマニンアストロン",
      "jockey": "岩田康誠",
      "style": "追い込み",
      "comment": "近走は9〜15番手の後方待機が続く"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 14,
+     "bracket": 7,
      "name": "ユキマル",
      "jockey": "丹内祐次",
      "style": "先行〜差し",
      "comment": "中団前で運ぶことが多く、ラジオ日本賞は6番手から運んだ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 3,
+     "bracket": 2,
      "name": "ワイワイレジェンド",
      "jockey": "田辺裕信",
      "style": "逃げ〜先行",
