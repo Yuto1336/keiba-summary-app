@@ -1,0 +1,3730 @@
+{
+ "date": "2026-11-21",
+ "summary": [
+  "対象: 京都・福島の2場 全24レース（全馬の着順・人気・騎手・通過順・上がり3F付き）",
+  "勝ち馬の脚質内訳（24レース）: 先行型 16勝 / 差し型 6勝 / 追い込み型 2勝 — 全体としては「前の組が強い日」。京都は先行7勝・差し4勝・追い込み1勝と先行優勢ながら差しも届き、福島は先行9勝・差し2勝・追い込み1勝と先行有利が顕著だった。",
+  "馬場: 京都は晴・芝良・ダート良。福島は曇時々雨・芝稍・ダート不良。",
+  "重賞: 福島11R 第62回福島記念（GIII）は1番人気マリアイリダータが好位から差し切り、京都11R シトリンステークスはメルカントゥールが2番手追走から抜け出した。詳細は各レース欄参照。",
+  "波乱: 京都3Rは13番人気ジャヤの差し切りで3連単701,850円の大波乱。"
+ ],
+ "races": [
+  {
+   "venue": "京都競馬場",
+   "raceNumber": 1,
+   "raceName": "サラ系2歳未勝利（牝）",
+   "surface": "ダート",
+   "distance": 1400,
+   "courseTrait": "ダート短距離は先行有利が基本。京都ダ1400はペースが速くなりやすく、流れに乗れた好位組が強い",
+   "raceFlow": "ペースはハイ（テン3F 36.0／上がり3F 37.7）。ハイペースでも先頭集団の2頭がそのまま上位に残り、勝ち馬は先頭集団から抜け出した前残り気味の決着。1番人気ドミナントは6着",
+   "winnerStyle": "先行型（通過2-2番手、先頭集団から抜け出した）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 14,
+     "name": "スターリーデー",
+     "popularity": 2,
+     "jockey": "Cデムーロ",
+     "passing": "2-2",
+     "last3f": "37.6",
+     "comment": "先頭集団から抜け出して勝ち"
+    },
+    {
+     "finish": "2",
+     "number": 13,
+     "name": "ラッキーハナコ",
+     "popularity": 3,
+     "jockey": "松山弘平",
+     "passing": "8-8",
+     "last3f": "38.0",
+     "comment": "中団から伸びて2着"
+    },
+    {
+     "finish": "3",
+     "number": 11,
+     "name": "オンアロール",
+     "popularity": 11,
+     "jockey": "岩田康誠",
+     "passing": "5-5",
+     "last3f": "38.4",
+     "comment": "好位から粘り3着"
+    },
+    {
+     "finish": "4",
+     "number": 12,
+     "name": "スカイランデヴー",
+     "popularity": 6,
+     "jockey": "吉村誠之助",
+     "passing": "9-9",
+     "last3f": "38.2",
+     "comment": "中団から伸びて4着"
+    },
+    {
+     "finish": "5",
+     "number": 8,
+     "name": "クリコリンダ",
+     "popularity": 5,
+     "jockey": "川須栄彦",
+     "passing": "7-6",
+     "last3f": "38.3",
+     "comment": "好位から伸びて5着"
+    },
+    {
+     "finish": "6",
+     "number": 4,
+     "name": "ドミナント",
+     "popularity": 1,
+     "jockey": "ルメール",
+     "passing": "6-7",
+     "last3f": "38.5",
+     "comment": "好位も直線で伸び欠く"
+    },
+    {
+     "finish": "7",
+     "number": 1,
+     "name": "キミチャン",
+     "popularity": 12,
+     "jockey": "Mデムーロ",
+     "passing": "10-10",
+     "last3f": "38.3",
+     "comment": "後方から追い上げ7着"
+    },
+    {
+     "finish": "8",
+     "number": 3,
+     "name": "キャンディリヒト",
+     "popularity": 7,
+     "jockey": "バルザローナ",
+     "passing": "1-1",
+     "last3f": "39.3",
+     "comment": "逃げたが直線で失速"
+    },
+    {
+     "finish": "9",
+     "number": 15,
+     "name": "クインズローマ",
+     "popularity": 4,
+     "jockey": "藤懸貴志",
+     "passing": "11-11",
+     "last3f": "38.6",
+     "comment": "後方から伸びず"
+    },
+    {
+     "finish": "10",
+     "number": 2,
+     "name": "ヴァニーユ",
+     "popularity": 9,
+     "jockey": "坂井瑠星",
+     "passing": "3-3",
+     "last3f": "39.4",
+     "comment": "先行したが直線で失速"
+    },
+    {
+     "finish": "11",
+     "number": 5,
+     "name": "サメーダン",
+     "popularity": 10,
+     "jockey": "岩田望来",
+     "passing": "4-4",
+     "last3f": "39.4",
+     "comment": "好位も直線で伸び欠く"
+    },
+    {
+     "finish": "12",
+     "number": 6,
+     "name": "クレールオーブ",
+     "popularity": 15,
+     "jockey": "柴田裕",
+     "passing": "14-12",
+     "last3f": "38.4",
+     "comment": "後方から追い上げ12着"
+    },
+    {
+     "finish": "13",
+     "number": 7,
+     "name": "ホットハニーラグ",
+     "popularity": 8,
+     "jockey": "高杉",
+     "passing": "12-13",
+     "last3f": "38.7",
+     "comment": "後方から伸びず"
+    },
+    {
+     "finish": "14",
+     "number": 10,
+     "name": "ミスティ",
+     "popularity": 14,
+     "jockey": "森田",
+     "passing": "15-14",
+     "last3f": "38.6",
+     "comment": "終始後方"
+    },
+    {
+     "finish": "15",
+     "number": 9,
+     "name": "サイモンククナ",
+     "popularity": 13,
+     "jockey": "田口貫太",
+     "passing": "13-15",
+     "last3f": "39.8",
+     "comment": "後方から伸びず最下位"
+    }
+   ]
+  },
+  {
+   "venue": "京都競馬場",
+   "raceNumber": 2,
+   "raceName": "サラ系2歳未勝利",
+   "surface": "ダート",
+   "distance": 1800,
+   "courseTrait": "ダート中距離は先行有利が基本。京都ダ1800は1コーナーまでの距離が長く、ペースが落ち着けば好位組が残りやすい",
+   "raceFlow": "ペースはミドル（テン3F 36.6／上がり3F 38.4）。逃げた4番は直線で失速し10着。最後方から追い込んだ勝ち馬が差し切る追い込み決着。13番ポッドベローチェは直線で大きく失速し大差の最下位",
+   "winnerStyle": "追い込み型（通過11-10-12-13番手、最後方から直線で差し切った）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 8,
+     "name": "レイテスツドリーム",
+     "popularity": 5,
+     "jockey": "幸英明",
+     "passing": "11-10-12-13",
+     "last3f": "37.4",
+     "comment": "最後方から直線で差し切った"
+    },
+    {
+     "finish": "2",
+     "number": 9,
+     "name": "スタニスラス",
+     "popularity": 1,
+     "jockey": "坂井瑠星",
+     "passing": "5-8-6-4",
+     "last3f": "38.4",
+     "comment": "中団から伸びて2着"
+    },
+    {
+     "finish": "3",
+     "number": 2,
+     "name": "スエヒロビリーブ",
+     "popularity": 6,
+     "jockey": "岩田望来",
+     "passing": "9-6-7-6",
+     "last3f": "38.2",
+     "comment": "中団から伸びて3着"
+    },
+    {
+     "finish": "4",
+     "number": 11,
+     "name": "タガノスパーク",
+     "popularity": 9,
+     "jockey": "川須栄彦",
+     "passing": "8-9-9-8",
+     "last3f": "38.5",
+     "comment": "後方から追い上げ4着"
+    },
+    {
+     "finish": "5",
+     "number": 12,
+     "name": "エボニーウイング",
+     "popularity": 3,
+     "jockey": "Cデムーロ",
+     "passing": "10-11-10-9",
+     "last3f": "38.4",
+     "comment": "後方から追い上げ5着"
+    },
+    {
+     "finish": "6",
+     "number": 5,
+     "name": "アメリカンノヴァ",
+     "popularity": 2,
+     "jockey": "モレイ",
+     "passing": "6-5-5-7",
+     "last3f": "39.0",
+     "comment": "好位から伸びて6着"
+    },
+    {
+     "finish": "7",
+     "number": 10,
+     "name": "チャンピオンリング",
+     "popularity": 13,
+     "jockey": "秋山稔",
+     "passing": "13-13-13-12",
+     "last3f": "38.6",
+     "comment": "終始後方から追い上げ7着"
+    },
+    {
+     "finish": "8",
+     "number": 3,
+     "name": "ジーティーアツモリ",
+     "popularity": 4,
+     "jockey": "田山",
+     "passing": "4-3-4-2",
+     "last3f": "39.3",
+     "comment": "先行したが直線で失速"
+    },
+    {
+     "finish": "9",
+     "number": 13,
+     "name": "ロゼブレイズ",
+     "popularity": 12,
+     "jockey": "吉村誠之助",
+     "passing": "7-7-8-11",
+     "last3f": "39.4",
+     "comment": "中団から後退"
+    },
+    {
+     "finish": "10",
+     "number": 4,
+     "name": "パーセンタイル",
+     "popularity": 8,
+     "jockey": "森田",
+     "passing": "1-1-1-1",
+     "last3f": "40.1",
+     "comment": "逃げたが直線で失速"
+    },
+    {
+     "finish": "11",
+     "number": 1,
+     "name": "ジオイメル",
+     "popularity": 7,
+     "jockey": "高倉稜",
+     "passing": "12-12-11-10",
+     "last3f": "39.5",
+     "comment": "後方から伸びず"
+    },
+    {
+     "finish": "12",
+     "number": 7,
+     "name": "アワジシマ",
+     "popularity": 11,
+     "jockey": "松若風馬",
+     "passing": "3-4-3-3",
+     "last3f": "40.3",
+     "comment": "先行したが直線で失速"
+    },
+    {
+     "finish": "13",
+     "number": 6,
+     "name": "ポッドベローチェ",
+     "popularity": 10,
+     "jockey": "田口貫太",
+     "passing": "2-2-2-5",
+     "last3f": "46.4",
+     "comment": "先行したが直線で大失速し大差の最下位"
+    }
+   ]
+  },
+  {
+   "venue": "京都競馬場",
+   "raceNumber": 3,
+   "raceName": "サラ系2歳未勝利",
+   "surface": "芝",
+   "distance": 1200,
+   "courseTrait": "京都芝1200は内回りで直線が短く、先行・好位が有利。ペースが流れると中団からの差しも届く",
+   "raceFlow": "ペースはミドル（テン3F 34.6／上がり3F 34.7）。上位4頭がアタマ・クビ差の大接戦で、13番人気の勝ち馬が中団から差し切る波乱の決着。3連単は70万円超え",
+   "winnerStyle": "差し型（通過9-9番手、中団から直線で差し切った）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 13,
+     "name": "ジャヤ",
+     "popularity": 13,
+     "jockey": "田口貫太",
+     "passing": "9-9",
+     "last3f": "33.8",
+     "comment": "中団から差し切って勝ち"
+    },
+    {
+     "finish": "2",
+     "number": 15,
+     "name": "ティンタアマレラ",
+     "popularity": 3,
+     "jockey": "モレイ",
+     "passing": "7-6",
+     "last3f": "34.2",
+     "comment": "好位から伸びて2着"
+    },
+    {
+     "finish": "3",
+     "number": 4,
+     "name": "スマートエール",
+     "popularity": 6,
+     "jockey": "高倉稜",
+     "passing": "3-3",
+     "last3f": "34.3",
+     "comment": "先行して粘り3着"
+    },
+    {
+     "finish": "4",
+     "number": 17,
+     "name": "カツダルマ",
+     "popularity": 1,
+     "jockey": "武豊",
+     "passing": "10-10",
+     "last3f": "33.9",
+     "comment": "後方から追い込んで4着"
+    },
+    {
+     "finish": "5",
+     "number": 8,
+     "name": "アルテクィーン",
+     "popularity": 2,
+     "jockey": "松山弘平",
+     "passing": "2-2",
+     "last3f": "34.7",
+     "comment": "先行して粘り5着"
+    },
+    {
+     "finish": "6",
+     "number": 7,
+     "name": "スピリッツ",
+     "popularity": 16,
+     "jockey": "角田和人",
+     "passing": "13-13",
+     "last3f": "33.6",
+     "comment": "後方から最速の上がりで追い上げ6着"
+    },
+    {
+     "finish": "7",
+     "number": 12,
+     "name": "ジョリープリュム",
+     "popularity": 4,
+     "jockey": "北村友一",
+     "passing": "4-4",
+     "last3f": "34.5",
+     "comment": "好位から伸びて7着"
+    },
+    {
+     "finish": "8",
+     "number": 6,
+     "name": "エルピスノヴァ",
+     "popularity": 11,
+     "jockey": "小崎",
+     "passing": "8-8",
+     "last3f": "34.2",
+     "comment": "中団から伸びて8着"
+    },
+    {
+     "finish": "9",
+     "number": 1,
+     "name": "ヤマニンアルセド",
+     "popularity": 9,
+     "jockey": "田山",
+     "passing": "12-11",
+     "last3f": "33.9",
+     "comment": "後方から追い上げ9着"
+    },
+    {
+     "finish": "10",
+     "number": 18,
+     "name": "ミライノシャチョウ",
+     "popularity": 7,
+     "jockey": "中井",
+     "passing": "1-1",
+     "last3f": "35.0",
+     "comment": "逃げたが直線で失速"
+    },
+    {
+     "finish": "11",
+     "number": 3,
+     "name": "ビバームス",
+     "popularity": 5,
+     "jockey": "岩田望来",
+     "passing": "6-7",
+     "last3f": "34.4",
+     "comment": "好位も直線で伸び欠く"
+    },
+    {
+     "finish": "12",
+     "number": 9,
+     "name": "ビーテリオス",
+     "popularity": 10,
+     "jockey": "松若風馬",
+     "passing": "5-5",
+     "last3f": "34.6",
+     "comment": "好位から伸びず"
+    },
+    {
+     "finish": "13",
+     "number": 2,
+     "name": "セイフェリーチェ",
+     "popularity": 12,
+     "jockey": "幸英明",
+     "passing": "17-16",
+     "last3f": "33.7",
+     "comment": "後方から最速の上がりも13着まで"
+    },
+    {
+     "finish": "14",
+     "number": 5,
+     "name": "ホワイトパンサー",
+     "popularity": 14,
+     "jockey": "高杉",
+     "passing": "11-12",
+     "last3f": "34.8",
+     "comment": "好位も直線で後退"
+    },
+    {
+     "finish": "15",
+     "number": 14,
+     "name": "メイショウレイナ",
+     "popularity": 17,
+     "jockey": "菱田裕二",
+     "passing": "15-14",
+     "last3f": "34.8",
+     "comment": "後方から伸びず"
+    },
+    {
+     "finish": "16",
+     "number": 16,
+     "name": "アイファーラピッド",
+     "popularity": 8,
+     "jockey": "坂井瑠星",
+     "passing": "16-15",
+     "last3f": "35.6",
+     "comment": "後方から伸びず"
+    },
+    {
+     "finish": "17",
+     "number": 11,
+     "name": "ピコキング",
+     "popularity": 15,
+     "jockey": "古川吉洋",
+     "passing": "14-17",
+     "last3f": "39.6",
+     "comment": "後方から伸びず大差の最下位"
+    }
+   ]
+  },
+  {
+   "venue": "京都競馬場",
+   "raceNumber": 4,
+   "raceName": "サラ系2歳未勝利",
+   "surface": "芝",
+   "distance": 1800,
+   "courseTrait": "京都芝1800は外回りで直線が長く、末脚勝負になりやすい。スローなら前の組も残る",
+   "raceFlow": "ペースはスロー（テン3F 35.8／上がり3F 34.1）。逃げた2番は3着に粘ったが、好位〜中団勢が上位を占める差し合いの決着",
+   "winnerStyle": "差し型（通過5-5番手、好位から直線で抜け出した）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 6,
+     "name": "ゾンネシュトラール",
+     "popularity": 2,
+     "jockey": "モレイ",
+     "passing": "5-5",
+     "last3f": "33.7",
+     "comment": "好位から直線で抜け出した"
+    },
+    {
+     "finish": "2",
+     "number": 9,
+     "name": "シホノノービレ",
+     "popularity": 1,
+     "jockey": "Cデムーロ",
+     "passing": "9-9",
+     "last3f": "33.6",
+     "comment": "後方から最速の上がりで追い込み2着"
+    },
+    {
+     "finish": "3",
+     "number": 2,
+     "name": "ジャンゴッド",
+     "popularity": 3,
+     "jockey": "川田将雅",
+     "passing": "1-1",
+     "last3f": "34.9",
+     "comment": "逃げて粘り3着"
+    },
+    {
+     "finish": "4",
+     "number": 12,
+     "name": "ヒグマドン",
+     "popularity": 11,
+     "jockey": "太宰啓介",
+     "passing": "12-11",
+     "last3f": "34.5",
+     "comment": "後方から追い込んで4着"
+    },
+    {
+     "finish": "5",
+     "number": 11,
+     "name": "リアライズセレスト",
+     "popularity": 5,
+     "jockey": "武豊",
+     "passing": "6-6",
+     "last3f": "34.9",
+     "comment": "好位から粘り5着"
+    },
+    {
+     "finish": "6",
+     "number": 8,
+     "name": "テーオーディスタス",
+     "popularity": 10,
+     "jockey": "秋山稔",
+     "passing": "8-8",
+     "last3f": "35.0",
+     "comment": "後方から伸びて6着"
+    },
+    {
+     "finish": "7",
+     "number": 10,
+     "name": "ポカポカヨウキ",
+     "popularity": 4,
+     "jockey": "岩田望来",
+     "passing": "3-3",
+     "last3f": "35.6",
+     "comment": "先行も直線で伸び欠く"
+    },
+    {
+     "finish": "8",
+     "number": 3,
+     "name": "ディヴァンパーレ",
+     "popularity": 7,
+     "jockey": "北村友一",
+     "passing": "4-4",
+     "last3f": "35.9",
+     "comment": "好位も直線で失速"
+    },
+    {
+     "finish": "9",
+     "number": 1,
+     "name": "シーザットガール",
+     "popularity": 9,
+     "jockey": "鮫島良",
+     "passing": "7-7",
+     "last3f": "35.7",
+     "comment": "中団から伸びず"
+    },
+    {
+     "finish": "10",
+     "number": 4,
+     "name": "ウィリーウィリー",
+     "popularity": 8,
+     "jockey": "中井",
+     "passing": "2-2",
+     "last3f": "36.6",
+     "comment": "先行したが直線で失速"
+    },
+    {
+     "finish": "11",
+     "number": 7,
+     "name": "バミューダブーケ",
+     "popularity": 6,
+     "jockey": "吉村誠之助",
+     "passing": "11-10",
+     "last3f": "36.3",
+     "comment": "後方から伸びず"
+    },
+    {
+     "finish": "12",
+     "number": 5,
+     "name": "ミライショウグン",
+     "popularity": 12,
+     "jockey": "森田",
+     "passing": "10-12",
+     "last3f": "39.9",
+     "comment": "好位も直線で大失速し大差の最下位"
+    }
+   ]
+  },
+  {
+   "venue": "京都競馬場",
+   "raceNumber": 5,
+   "raceName": "サラ系2歳新馬（牝）",
+   "surface": "芝",
+   "distance": 1600,
+   "courseTrait": "京都芝1600は外回りで直線が長く、差し・追い込みも届く。ただし下り坂で前も止まりにくく、スローなら前の組が残る",
+   "raceFlow": "ペースはスロー（テン3F 36.2／上がり3F 34.3）。逃げた6番は直線で失速し12着。好位勢が上位を占め、1番人気の勝ち馬が3番手から抜け出した",
+   "winnerStyle": "先行型（通過3-3番手、好位から直線で抜け出した）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 10,
+     "name": "アウダチェ",
+     "popularity": 1,
+     "jockey": "ルメール",
+     "passing": "3-3",
+     "last3f": "34.1",
+     "comment": "好位から直線で抜け出した"
+    },
+    {
+     "finish": "2",
+     "number": 8,
+     "name": "ペプチドヘドウィグ",
+     "popularity": 5,
+     "jockey": "松山弘平",
+     "passing": "2-2",
+     "last3f": "34.5",
+     "comment": "先行して粘り2着"
+    },
+    {
+     "finish": "3",
+     "number": 16,
+     "name": "ルージュアルミーラ",
+     "popularity": 4,
+     "jockey": "バルザローナ",
+     "passing": "11-12",
+     "last3f": "33.9",
+     "comment": "後方から追い込んで3着"
+    },
+    {
+     "finish": "4",
+     "number": 15,
+     "name": "ベネヴェローチェ",
+     "popularity": 2,
+     "jockey": "Cデムーロ",
+     "passing": "6-6",
+     "last3f": "34.7",
+     "comment": "好位から伸びて4着"
+    },
+    {
+     "finish": "5",
+     "number": 5,
+     "name": "メイショウポポラス",
+     "popularity": 7,
+     "jockey": "今村",
+     "passing": "9-9",
+     "last3f": "34.4",
+     "comment": "中団から伸びて5着"
+    },
+    {
+     "finish": "6",
+     "number": 9,
+     "name": "オースミエターナ",
+     "popularity": 15,
+     "jockey": "角田和人",
+     "passing": "5-5",
+     "last3f": "35.1",
+     "comment": "好位から伸びて6着"
+    },
+    {
+     "finish": "7",
+     "number": 4,
+     "name": "ショウナンサマリー",
+     "popularity": 16,
+     "jockey": "田山",
+     "passing": "7-7",
+     "last3f": "34.9",
+     "comment": "中団から伸びて7着"
+    },
+    {
+     "finish": "8",
+     "number": 3,
+     "name": "オーケーファイター",
+     "popularity": 6,
+     "jockey": "武豊",
+     "passing": "4-4",
+     "last3f": "35.2",
+     "comment": "好位も直線で伸び欠く"
+    },
+    {
+     "finish": "9",
+     "number": 11,
+     "name": "ニシノセリ",
+     "popularity": 10,
+     "jockey": "幸英明",
+     "passing": "10-10",
+     "last3f": "34.7",
+     "comment": "中団から伸びず"
+    },
+    {
+     "finish": "10",
+     "number": 7,
+     "name": "マチネ",
+     "popularity": 11,
+     "jockey": "北村友一",
+     "passing": "13-13",
+     "last3f": "34.6",
+     "comment": "後方から伸びず"
+    },
+    {
+     "finish": "11",
+     "number": 13,
+     "name": "ステラルーチェ",
+     "popularity": 8,
+     "jockey": "田口貫太",
+     "passing": "8-8",
+     "last3f": "35.4",
+     "comment": "好位も直線で伸び欠く"
+    },
+    {
+     "finish": "12",
+     "number": 6,
+     "name": "タガノビバーチェ",
+     "popularity": 3,
+     "jockey": "坂井瑠星",
+     "passing": "1-1",
+     "last3f": "36.0",
+     "comment": "逃げたが直線で失速"
+    },
+    {
+     "finish": "13",
+     "number": 2,
+     "name": "バチェラーガール",
+     "popularity": 14,
+     "jockey": "松若風馬",
+     "passing": "12-11",
+     "last3f": "34.9",
+     "comment": "後方から追い上げ13着"
+    },
+    {
+     "finish": "14",
+     "number": 14,
+     "name": "トランキーロ",
+     "popularity": 12,
+     "jockey": "吉村誠之助",
+     "passing": "15-15",
+     "last3f": "35.0",
+     "comment": "終始後方"
+    },
+    {
+     "finish": "15",
+     "number": 12,
+     "name": "ジェムポリッシュ",
+     "popularity": 9,
+     "jockey": "岩田望来",
+     "passing": "14-14",
+     "last3f": "35.4",
+     "comment": "後方から伸びず"
+    },
+    {
+     "finish": "16",
+     "number": 1,
+     "name": "ゼットブリーズ",
+     "popularity": 13,
+     "jockey": "古川吉洋",
+     "passing": "16-16",
+     "last3f": "38.4",
+     "comment": "終始後方で大差の最下位"
+    }
+   ]
+  },
+  {
+   "venue": "京都競馬場",
+   "raceNumber": 6,
+   "raceName": "サラ系2歳新馬",
+   "surface": "ダート",
+   "distance": 1200,
+   "courseTrait": "ダート短距離は先行有利が基本。京都ダ1200はスタートから1コーナーまでが短く、内枠の先行馬が有利になりやすい",
+   "raceFlow": "ペースはスロー（テン3F 38.6／上がり3F 36.1）。逃げた勝ち馬が6馬身差で押し切る逃げ切り勝ち。7頭立ての少頭数戦",
+   "winnerStyle": "先行型（通過1-1番手、終始先頭の逃げ切り）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 5,
+     "name": "セレクトルビー",
+     "popularity": 1,
+     "jockey": "田山",
+     "passing": "1-1",
+     "last3f": "36.1",
+     "comment": "逃げ切り勝ち"
+    },
+    {
+     "finish": "2",
+     "number": 1,
+     "name": "サンダージョー",
+     "popularity": 3,
+     "jockey": "菱田裕二",
+     "passing": "2-2",
+     "last3f": "37.0",
+     "comment": "番手追走も直線で及ばず2着"
+    },
+    {
+     "finish": "3",
+     "number": 6,
+     "name": "ファルディルーチェ",
+     "popularity": 4,
+     "jockey": "高杉",
+     "passing": "3-3",
+     "last3f": "37.0",
+     "comment": "好位から粘り3着"
+    },
+    {
+     "finish": "4",
+     "number": 2,
+     "name": "ジェルモーリオ",
+     "popularity": 5,
+     "jockey": "今村",
+     "passing": "7-7",
+     "last3f": "37.1",
+     "comment": "終始後方から追い上げ4着"
+    },
+    {
+     "finish": "5",
+     "number": 7,
+     "name": "ロゼフレイバー",
+     "popularity": 2,
+     "jockey": "松山弘平",
+     "passing": "4-6",
+     "last3f": "37.7",
+     "comment": "好位も直線で伸び欠く"
+    },
+    {
+     "finish": "6",
+     "number": 4,
+     "name": "オートドライブ",
+     "popularity": 6,
+     "jockey": "藤懸貴志",
+     "passing": "6-4",
+     "last3f": "37.7",
+     "comment": "中団から伸びて6着"
+    },
+    {
+     "finish": "7",
+     "number": 3,
+     "name": "コパノハーバード",
+     "popularity": 7,
+     "jockey": "古川吉洋",
+     "passing": "5-5",
+     "last3f": "38.6",
+     "comment": "中団から伸びず最下位"
+    }
+   ]
+  },
+  {
+   "venue": "京都競馬場",
+   "raceNumber": 7,
+   "raceName": "サラ系3歳以上1勝クラス",
+   "surface": "ダート",
+   "distance": 1800,
+   "courseTrait": "ダート中距離は先行有利が基本。京都ダ1800は1コーナーまでの距離が長く、ペースが落ち着けば好位組が残りやすい",
+   "raceFlow": "ペースはミドル（テン3F 35.8／上がり3F 37.2）。逃げた1番は2着に粘り、好位勢が上位を占める前残り気味の決着。1番人気の勝ち馬が4番手から抜け出した",
+   "winnerStyle": "先行型（通過6-6-4-4番手、好位から直線で抜け出した）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 15,
+     "name": "ヤエギリ",
+     "popularity": 1,
+     "jockey": "ルメール",
+     "passing": "6-6-4-4",
+     "last3f": "36.9",
+     "comment": "好位から直線で抜け出した"
+    },
+    {
+     "finish": "2",
+     "number": 1,
+     "name": "アメリカンバー",
+     "popularity": 7,
+     "jockey": "Cデムーロ",
+     "passing": "1-1-1-1",
+     "last3f": "37.8",
+     "comment": "逃げて粘り2着"
+    },
+    {
+     "finish": "3",
+     "number": 4,
+     "name": "ワザオギ",
+     "popularity": 8,
+     "jockey": "バルザローナ",
+     "passing": "9-9-5-6",
+     "last3f": "37.9",
+     "comment": "中団から伸びて3着"
+    },
+    {
+     "finish": "4",
+     "number": 6,
+     "name": "ケイアイアマゾン",
+     "popularity": 6,
+     "jockey": "藤懸貴志",
+     "passing": "15-15-15-14",
+     "last3f": "36.9",
+     "comment": "後方から最速タイの上がりで追い込んで4着"
+    },
+    {
+     "finish": "5",
+     "number": 12,
+     "name": "アメリカンスタイル",
+     "popularity": 3,
+     "jockey": "北村友一",
+     "passing": "8-8-8-5",
+     "last3f": "37.8",
+     "comment": "好位から伸びて5着"
+    },
+    {
+     "finish": "6",
+     "number": 9,
+     "name": "クレスコドルフィン",
+     "popularity": 16,
+     "jockey": "中井",
+     "passing": "11-10-11-9",
+     "last3f": "37.6",
+     "comment": "後方から追い上げ6着"
+    },
+    {
+     "finish": "7",
+     "number": 5,
+     "name": "アミラル",
+     "popularity": 9,
+     "jockey": "松若風馬",
+     "passing": "12-12-9-7",
+     "last3f": "38.0",
+     "comment": "中団から伸びて7着"
+    },
+    {
+     "finish": "8",
+     "number": 3,
+     "name": "フランキーバローズ",
+     "popularity": 4,
+     "jockey": "モレイ",
+     "passing": "5-5-6-8",
+     "last3f": "38.4",
+     "comment": "好位も直線で伸び欠く"
+    },
+    {
+     "finish": "9",
+     "number": 2,
+     "name": "タマモランプ",
+     "popularity": 2,
+     "jockey": "池添謙一",
+     "passing": "3-3-3-3",
+     "last3f": "38.8",
+     "comment": "先行したが直線で失速"
+    },
+    {
+     "finish": "10",
+     "number": 13,
+     "name": "メイショウクモイ",
+     "popularity": 12,
+     "jockey": "今村",
+     "passing": "13-13-13-12",
+     "last3f": "38.1",
+     "comment": "後方から伸びず"
+    },
+    {
+     "finish": "11",
+     "number": 14,
+     "name": "シーリュウシー",
+     "popularity": 14,
+     "jockey": "菱田裕二",
+     "passing": "14-14-14-13",
+     "last3f": "38.3",
+     "comment": "後方から伸びず"
+    },
+    {
+     "finish": "12",
+     "number": 7,
+     "name": "ショコラプリン",
+     "popularity": 5,
+     "jockey": "坂井瑠星",
+     "passing": "2-2-2-2",
+     "last3f": "39.5",
+     "comment": "番手追走も直線で大失速"
+    },
+    {
+     "finish": "13",
+     "number": 10,
+     "name": "オーシンエス",
+     "popularity": 11,
+     "jockey": "Mデムーロ",
+     "passing": "10-11-12-10",
+     "last3f": "39.4",
+     "comment": "中団から後退"
+    },
+    {
+     "finish": "14",
+     "number": 11,
+     "name": "マーチンゲール",
+     "popularity": 10,
+     "jockey": "岩田康誠",
+     "passing": "7-7-10-11",
+     "last3f": "39.7",
+     "comment": "好位も直線で後退"
+    },
+    {
+     "finish": "15",
+     "number": 16,
+     "name": "キタノシャカール",
+     "popularity": 13,
+     "jockey": "高杉",
+     "passing": "16-16-16-15",
+     "last3f": "39.7",
+     "comment": "終始後方"
+    },
+    {
+     "finish": "16",
+     "number": 8,
+     "name": "マーゴットショット",
+     "popularity": 15,
+     "jockey": "小崎",
+     "passing": "4-4-7-16",
+     "last3f": "42.3",
+     "comment": "先行したが直線で大失速し大差の最下位"
+    }
+   ]
+  },
+  {
+   "venue": "京都競馬場",
+   "raceNumber": 8,
+   "raceName": "サラ系3歳以上2勝クラス",
+   "surface": "ダート",
+   "distance": 1400,
+   "courseTrait": "ダート短距離は先行有利が基本。京都ダ1400はペースが速くなりやすく、流れに乗れた好位組が強い",
+   "raceFlow": "ペースはミドル（テン3F 35.3／上がり3F 36.4）。逃げた15番は7着に沈み、中団から伸びた勝ち馬が差し切る差し決着",
+   "winnerStyle": "差し型（通過10-6番手、中団から直線で差し切った）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 13,
+     "name": "ポートデラメール",
+     "popularity": 1,
+     "jockey": "モレイ",
+     "passing": "10-6",
+     "last3f": "35.7",
+     "comment": "中団から直線で差し切った"
+    },
+    {
+     "finish": "2",
+     "number": 5,
+     "name": "ブロンテス",
+     "popularity": 5,
+     "jockey": "田口貫太",
+     "passing": "6-5",
+     "last3f": "36.3",
+     "comment": "好位から伸びて2着"
+    },
+    {
+     "finish": "3",
+     "number": 10,
+     "name": "レーティッシュ",
+     "popularity": 8,
+     "jockey": "岩田望来",
+     "passing": "5-4",
+     "last3f": "36.5",
+     "comment": "好位から粘り3着"
+    },
+    {
+     "finish": "4",
+     "number": 6,
+     "name": "ワイズギャング",
+     "popularity": 3,
+     "jockey": "古川吉洋",
+     "passing": "2-2",
+     "last3f": "37.1",
+     "comment": "先行して粘り4着"
+    },
+    {
+     "finish": "5",
+     "number": 12,
+     "name": "モズケイスター",
+     "popularity": 10,
+     "jockey": "坂井瑠星",
+     "passing": "11-10",
+     "last3f": "36.6",
+     "comment": "後方から追い上げ5着"
+    },
+    {
+     "finish": "6",
+     "number": 2,
+     "name": "エルフェニックス",
+     "popularity": 6,
+     "jockey": "ルメール",
+     "passing": "14-14",
+     "last3f": "36.0",
+     "comment": "後方から最速の上がりで追い上げ6着"
+    },
+    {
+     "finish": "7",
+     "number": 15,
+     "name": "マイティマイティー",
+     "popularity": 9,
+     "jockey": "松山弘平",
+     "passing": "1-1",
+     "last3f": "37.7",
+     "comment": "逃げたが直線で失速"
+    },
+    {
+     "finish": "8",
+     "number": 14,
+     "name": "ホットシート",
+     "popularity": 4,
+     "jockey": "川田将雅",
+     "passing": "9-9",
+     "last3f": "37.1",
+     "comment": "中団から伸びず"
+    },
+    {
+     "finish": "9",
+     "number": 3,
+     "name": "ラピダリア",
+     "popularity": 11,
+     "jockey": "藤懸貴志",
+     "passing": "15-15",
+     "last3f": "36.1",
+     "comment": "終始後方から追い上げ9着"
+    },
+    {
+     "finish": "10",
+     "number": 11,
+     "name": "ザハント",
+     "popularity": 13,
+     "jockey": "角田和人",
+     "passing": "12-13",
+     "last3f": "36.8",
+     "comment": "後方から伸びず"
+    },
+    {
+     "finish": "11",
+     "number": 1,
+     "name": "バックトゥザライト",
+     "popularity": 14,
+     "jockey": "菱田裕二",
+     "passing": "13-12",
+     "last3f": "36.5",
+     "comment": "後方から伸びず"
+    },
+    {
+     "finish": "12",
+     "number": 7,
+     "name": "ジューンアゲイン",
+     "popularity": 2,
+     "jockey": "田山",
+     "passing": "3-3",
+     "last3f": "38.0",
+     "comment": "先行したが直線で大失速"
+    },
+    {
+     "finish": "13",
+     "number": 4,
+     "name": "ハッコウイチウ",
+     "popularity": 7,
+     "jockey": "Cデムーロ",
+     "passing": "7-7",
+     "last3f": "37.8",
+     "comment": "好位も直線で失速"
+    },
+    {
+     "finish": "14",
+     "number": 9,
+     "name": "ニホンピロカラット",
+     "popularity": 12,
+     "jockey": "幸英明",
+     "passing": "8-11",
+     "last3f": "38.4",
+     "comment": "中団から後退"
+    },
+    {
+     "finish": "15",
+     "number": 8,
+     "name": "ナリタヒカリ",
+     "popularity": 15,
+     "jockey": "太宰啓介",
+     "passing": "4-8",
+     "last3f": "39.2",
+     "comment": "先行したが直線で失速し最下位"
+    }
+   ]
+  },
+  {
+   "venue": "京都競馬場",
+   "raceNumber": 9,
+   "raceName": "秋明菊賞",
+   "surface": "芝",
+   "distance": 1400,
+   "courseTrait": "京都芝1400は内回りで直線が短め。先行・好位が有利だが、ペースが流れると中団からの差しも届く",
+   "raceFlow": "ペースはスロー（テン3F 35.8／上がり3F 33.0）。逃げた6番は直線で失速し5着。上位2頭は1・2番人気で、勝ち馬は3番手から抜け出した",
+   "winnerStyle": "先行型（通過3-4番手、好位から直線で抜け出した）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 7,
+     "name": "カレンハウ",
+     "popularity": 2,
+     "jockey": "松山弘平",
+     "passing": "3-4",
+     "last3f": "32.8",
+     "comment": "好位から直線で抜け出した"
+    },
+    {
+     "finish": "2",
+     "number": 3,
+     "name": "アンムート",
+     "popularity": 1,
+     "jockey": "Cデムーロ",
+     "passing": "4-3",
+     "last3f": "32.8",
+     "comment": "好位から伸びて2着"
+    },
+    {
+     "finish": "3",
+     "number": 1,
+     "name": "ミハテヌユメ",
+     "popularity": 4,
+     "jockey": "田口貫太",
+     "passing": "2-1",
+     "last3f": "34.9",
+     "comment": "先行して粘り3着"
+    },
+    {
+     "finish": "4",
+     "number": 2,
+     "name": "タナコクシテンホウ",
+     "popularity": 5,
+     "jockey": "幸英明",
+     "passing": "6-6",
+     "last3f": "34.7",
+     "comment": "後方から追い上げ4着"
+    },
+    {
+     "finish": "5",
+     "number": 6,
+     "name": "ジャスパーレーブ",
+     "popularity": 3,
+     "jockey": "バルザローナ",
+     "passing": "1-2",
+     "last3f": "36.0",
+     "comment": "逃げたが直線で失速"
+    },
+    {
+     "finish": "6",
+     "number": 5,
+     "name": "アンジェリカ",
+     "popularity": 7,
+     "jockey": "国分優",
+     "passing": "7-7",
+     "last3f": "35.6",
+     "comment": "終始後方"
+    },
+    {
+     "finish": "7",
+     "number": 8,
+     "name": "アプリコットスカイ",
+     "popularity": 6,
+     "jockey": "古川吉洋",
+     "passing": "5-5",
+     "last3f": "36.1",
+     "comment": "中団から伸びず最下位"
+    }
+   ]
+  },
+  {
+   "venue": "京都競馬場",
+   "raceNumber": 10,
+   "raceName": "比叡ステークス",
+   "surface": "芝",
+   "distance": 2400,
+   "courseTrait": "京都芝2400は外回りで直線が長く、末脚勝負になりやすい。長距離戦はペース次第で先行も残る",
+   "raceFlow": "ペースはスロー（テン3F 34.7／上がり3F 34.9）。逃げた勝ち馬が押し切る逃げ切り勝ち。2・3着は後方から追い込んだ馬で、上位はクビ・アタマ差の接戦",
+   "winnerStyle": "先行型（通過1-1-1-1番手、終始先頭の逃げ切り）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 7,
+     "name": "ロードフィレール",
+     "popularity": 1,
+     "jockey": "坂井瑠星",
+     "passing": "1-1-1-1",
+     "last3f": "34.9",
+     "comment": "逃げ切り勝ち"
+    },
+    {
+     "finish": "2",
+     "number": 5,
+     "name": "ベトルス",
+     "popularity": 2,
+     "jockey": "岩田望来",
+     "passing": "13-13-14-13",
+     "last3f": "34.1",
+     "comment": "後方から追い込んで2着"
+    },
+    {
+     "finish": "3",
+     "number": 9,
+     "name": "オメガナビゲーター",
+     "popularity": 8,
+     "jockey": "北村友一",
+     "passing": "15-15-15-15",
+     "last3f": "33.9",
+     "comment": "終始後方から最速の上がりで追い込み3着"
+    },
+    {
+     "finish": "4",
+     "number": 6,
+     "name": "ロードガレリア",
+     "popularity": 6,
+     "jockey": "バルザローナ",
+     "passing": "14-14-13-14",
+     "last3f": "34.3",
+     "comment": "後方から追い込んで4着"
+    },
+    {
+     "finish": "5",
+     "number": 15,
+     "name": "クルミナーレ",
+     "popularity": 3,
+     "jockey": "モレイ",
+     "passing": "9-9-8-9",
+     "last3f": "34.7",
+     "comment": "中団から伸びて5着"
+    },
+    {
+     "finish": "6",
+     "number": 2,
+     "name": "サトノパトリオット",
+     "popularity": 4,
+     "jockey": "ルメール",
+     "passing": "4-4-4-3",
+     "last3f": "35.1",
+     "comment": "先行して粘り6着"
+    },
+    {
+     "finish": "7",
+     "number": 1,
+     "name": "アットアブラスト",
+     "popularity": 9,
+     "jockey": "田口貫太",
+     "passing": "8-8-7-7",
+     "last3f": "35.1",
+     "comment": "中団から伸びて7着"
+    },
+    {
+     "finish": "8",
+     "number": 8,
+     "name": "キントリヒ",
+     "popularity": 13,
+     "jockey": "幸英明",
+     "passing": "11-11-11-12",
+     "last3f": "34.8",
+     "comment": "後方から伸びて8着"
+    },
+    {
+     "finish": "9",
+     "number": 14,
+     "name": "スピードリッチ",
+     "popularity": 7,
+     "jockey": "松山弘平",
+     "passing": "12-12-12-10",
+     "last3f": "34.9",
+     "comment": "後方から追い上げ9着"
+    },
+    {
+     "finish": "10",
+     "number": 3,
+     "name": "サトノクローク",
+     "popularity": 11,
+     "jockey": "池添謙一",
+     "passing": "10-10-10-11",
+     "last3f": "34.9",
+     "comment": "後方から伸びず"
+    },
+    {
+     "finish": "11",
+     "number": 13,
+     "name": "ウインデイジー",
+     "popularity": 5,
+     "jockey": "岩田康誠",
+     "passing": "6-6-5-2",
+     "last3f": "35.6",
+     "comment": "先行したが直線で失速"
+    },
+    {
+     "finish": "12",
+     "number": 11,
+     "name": "キーパフォーマー",
+     "popularity": 12,
+     "jockey": "松若風馬",
+     "passing": "7-7-9-6",
+     "last3f": "35.5",
+     "comment": "好位も直線で失速"
+    },
+    {
+     "finish": "13",
+     "number": 4,
+     "name": "ナムラフッカー",
+     "popularity": 14,
+     "jockey": "田山",
+     "passing": "5-5-6-8",
+     "last3f": "36.1",
+     "comment": "先行したが直線で失速"
+    },
+    {
+     "finish": "14",
+     "number": 12,
+     "name": "リーティアコナル",
+     "popularity": 10,
+     "jockey": "小崎",
+     "passing": "3-3-3-5",
+     "last3f": "37.5",
+     "comment": "先行したが直線で大失速"
+    },
+    {
+     "finish": "15",
+     "number": 10,
+     "name": "ルクスビッグスター",
+     "popularity": 15,
+     "jockey": "吉村誠之助",
+     "passing": "2-2-2-4",
+     "last3f": "38.4",
+     "comment": "先行したが直線で大失速し最下位"
+    }
+   ]
+  },
+  {
+   "venue": "京都競馬場",
+   "raceNumber": 11,
+   "raceName": "シトリンステークス",
+   "surface": "ダート",
+   "distance": 1900,
+   "courseTrait": "ダート中距離は先行有利が基本。京都ダ1900はコーナーが多くペースが落ち着きやすく、好位組が残りやすい",
+   "raceFlow": "ペースはミドル。逃げた4番は直線で失速し14着。好位勢が上位を占め、勝ち馬は2番手追走から抜け出した",
+   "winnerStyle": "先行型（通過2-2-2-2番手、逃げ馬を追走して直線で抜け出した）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 12,
+     "name": "メルカントゥール",
+     "popularity": 3,
+     "jockey": "Cデムーロ",
+     "passing": "2-2-2-2",
+     "last3f": "36.2",
+     "comment": "逃げ馬を追走して直線で抜け出した"
+    },
+    {
+     "finish": "2",
+     "number": 10,
+     "name": "テーオーマルコーニ",
+     "popularity": 1,
+     "jockey": "岩田望来",
+     "passing": "7-7-6-5",
+     "last3f": "36.2",
+     "comment": "好位から伸びて2着"
+    },
+    {
+     "finish": "3",
+     "number": 9,
+     "name": "レッドプロフェシー",
+     "popularity": 8,
+     "jockey": "ルメール",
+     "passing": "10-9-9-8",
+     "last3f": "36.4",
+     "comment": "中団から伸びて3着"
+    },
+    {
+     "finish": "4",
+     "number": 3,
+     "name": "メリークリスマス",
+     "popularity": 4,
+     "jockey": "三浦皇成",
+     "passing": "9-8-8-9",
+     "last3f": "36.6",
+     "comment": "中団から伸びて4着"
+    },
+    {
+     "finish": "5",
+     "number": 14,
+     "name": "チェリヴェント",
+     "popularity": 2,
+     "jockey": "吉村誠之助",
+     "passing": "4-4-7-7",
+     "last3f": "36.9",
+     "comment": "先行して粘り5着"
+    },
+    {
+     "finish": "6",
+     "number": 2,
+     "name": "ゼットリアン",
+     "popularity": 5,
+     "jockey": "松若風馬",
+     "passing": "8-11-10-10",
+     "last3f": "36.5",
+     "comment": "中団から伸びて6着"
+    },
+    {
+     "finish": "7",
+     "number": 15,
+     "name": "リビアングラス",
+     "popularity": 9,
+     "jockey": "武豊",
+     "passing": "5-5-3-4",
+     "last3f": "37.3",
+     "comment": "好位から伸びて7着"
+    },
+    {
+     "finish": "8",
+     "number": 11,
+     "name": "ハヤテノフクノスケ",
+     "popularity": 12,
+     "jockey": "Mデムーロ",
+     "passing": "11-10-5-3",
+     "last3f": "37.5",
+     "comment": "後方から3番手まで進出して8着"
+    },
+    {
+     "finish": "9",
+     "number": 1,
+     "name": "ヒルノハンブルク",
+     "popularity": 7,
+     "jockey": "北村友一",
+     "passing": "13-13-13-12",
+     "last3f": "36.8",
+     "comment": "後方から伸びず"
+    },
+    {
+     "finish": "10",
+     "number": 5,
+     "name": "センツブラッド",
+     "popularity": 10,
+     "jockey": "川田将雅",
+     "passing": "3-3-4-6",
+     "last3f": "38.5",
+     "comment": "先行したが直線で大失速"
+    },
+    {
+     "finish": "11",
+     "number": 6,
+     "name": "ヤマニンブークリエ",
+     "popularity": 6,
+     "jockey": "坂井瑠星",
+     "passing": "6-6-12-14",
+     "last3f": "37.6",
+     "comment": "好位も直線で後退"
+    },
+    {
+     "finish": "12",
+     "number": 8,
+     "name": "アスクデビューモア",
+     "popularity": 14,
+     "jockey": "岩田康誠",
+     "passing": "15-15-15-15",
+     "last3f": "36.8",
+     "comment": "終始後方"
+    },
+    {
+     "finish": "13",
+     "number": 7,
+     "name": "マキシ",
+     "popularity": 13,
+     "jockey": "田口貫太",
+     "passing": "14-14-14-13",
+     "last3f": "37.5",
+     "comment": "後方から伸びず"
+    },
+    {
+     "finish": "14",
+     "number": 4,
+     "name": "ポッドロゴ",
+     "popularity": 11,
+     "jockey": "バルザローナ",
+     "passing": "1-1-1-1",
+     "last3f": "39.2",
+     "comment": "逃げたが直線で大失速"
+    },
+    {
+     "finish": "15",
+     "number": 13,
+     "name": "カネフラ",
+     "popularity": 15,
+     "jockey": "田山",
+     "passing": "12-12-11-11",
+     "last3f": "38.2",
+     "comment": "後方から伸びず最下位"
+    }
+   ]
+  },
+  {
+   "venue": "京都競馬場",
+   "raceNumber": 12,
+   "raceName": "サラ系3歳以上2勝クラス",
+   "surface": "芝",
+   "distance": 2000,
+   "courseTrait": "京都芝2000は内回りでコーナーが多く直線も短め。先行・好位が有利で、後方からの追い込みは届きにくい",
+   "raceFlow": "ペースはスロー（テン3F 36.8／上がり3F 33.7）。逃げた2番は7着に沈み、中団から伸びた勝ち馬が差し切る差し決着。上位4頭がアタマ・クビ差の大接戦",
+   "winnerStyle": "差し型（通過3-3-5-5番手、好位から直線で抜け出した）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 6,
+     "name": "バルティカ",
+     "popularity": 2,
+     "jockey": "Cデムーロ",
+     "passing": "3-3-5-5",
+     "last3f": "33.3",
+     "comment": "好位から直線で抜け出した"
+    },
+    {
+     "finish": "2",
+     "number": 7,
+     "name": "ホウオウタイタン",
+     "popularity": 5,
+     "jockey": "田山",
+     "passing": "11-11-10-8",
+     "last3f": "33.2",
+     "comment": "後方から追い込んで2着"
+    },
+    {
+     "finish": "3",
+     "number": 8,
+     "name": "メイショウアイル",
+     "popularity": 8,
+     "jockey": "武豊",
+     "passing": "7-7-7-7",
+     "last3f": "33.2",
+     "comment": "中団から伸びて3着"
+    },
+    {
+     "finish": "4",
+     "number": 11,
+     "name": "オメガインペリアル",
+     "popularity": 7,
+     "jockey": "坂井瑠星",
+     "passing": "9-9-11-10",
+     "last3f": "33.1",
+     "comment": "後方から最速の上がりで追い込み4着"
+    },
+    {
+     "finish": "5",
+     "number": 10,
+     "name": "ロールザダイス",
+     "popularity": 1,
+     "jockey": "モレイ",
+     "passing": "5-6-3-2",
+     "last3f": "33.6",
+     "comment": "好位から伸びて5着"
+    },
+    {
+     "finish": "6",
+     "number": 4,
+     "name": "ダノンカゼルタ",
+     "popularity": 4,
+     "jockey": "高杉",
+     "passing": "2-2-2-3",
+     "last3f": "33.9",
+     "comment": "先行して粘り6着"
+    },
+    {
+     "finish": "7",
+     "number": 2,
+     "name": "カクウチ",
+     "popularity": 10,
+     "jockey": "秋山稔",
+     "passing": "1-1-1-1",
+     "last3f": "34.0",
+     "comment": "逃げたが直線で失速"
+    },
+    {
+     "finish": "8",
+     "number": 12,
+     "name": "キタサンハナビラ",
+     "popularity": 6,
+     "jockey": "幸英明",
+     "passing": "4-4-4-4",
+     "last3f": "33.9",
+     "comment": "先行して粘り8着"
+    },
+    {
+     "finish": "9",
+     "number": 3,
+     "name": "シャドウマスター",
+     "popularity": 3,
+     "jockey": "ルメール",
+     "passing": "6-5-6-6",
+     "last3f": "33.8",
+     "comment": "好位も直線で伸び欠く"
+    },
+    {
+     "finish": "10",
+     "number": 5,
+     "name": "ワンモアスマイル",
+     "popularity": 12,
+     "jockey": "岩田康誠",
+     "passing": "10-10-8-9",
+     "last3f": "33.7",
+     "comment": "中団から伸びず"
+    },
+    {
+     "finish": "11",
+     "number": 1,
+     "name": "ヤマニンループ",
+     "popularity": 9,
+     "jockey": "太宰啓介",
+     "passing": "13-13-12-13",
+     "last3f": "33.5",
+     "comment": "終始後方"
+    },
+    {
+     "finish": "12",
+     "number": 13,
+     "name": "ウインリベラシオン",
+     "popularity": 11,
+     "jockey": "田口貫太",
+     "passing": "12-12-13-12",
+     "last3f": "34.4",
+     "comment": "後方から伸びず"
+    },
+    {
+     "finish": "13",
+     "number": 9,
+     "name": "ステイクラッシー",
+     "popularity": 13,
+     "jockey": "細川智",
+     "passing": "8-8-9-11",
+     "last3f": "35.0",
+     "comment": "中団から後退し最下位"
+    }
+   ]
+  },
+  {
+   "venue": "福島競馬場",
+   "raceNumber": 1,
+   "raceName": "サラ系2歳未勝利（牝）",
+   "surface": "ダート",
+   "distance": 1700,
+   "courseTrait": "福島ダ1700mは1コーナーまでの距離が短く先行争いが激しくなりやすい一方、スパイラルカーブで中団からも差し込める。基本は先行有利。",
+   "raceFlow": "ペースはミドル。逃げた3セイウンラミエルがアタマ差2着に粘り、3番手追走の勝ち馬が直線で交わす先行決着。上位3頭はいずれも4コーナー3番手以内。",
+   "winnerStyle": "先行型（通過3-4-3-3、3番手追走から直線で先頭に立って押し切った）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 15,
+     "name": "ネージュドレーヴ",
+     "popularity": 1,
+     "jockey": "小林美駒",
+     "passing": "3-4-3-3",
+     "last3f": "37.4",
+     "comment": "3番手追走から直線で先頭に立ち押し切った"
+    },
+    {
+     "finish": "2",
+     "number": 3,
+     "name": "セイウンラミエル",
+     "popularity": 4,
+     "jockey": "野中",
+     "passing": "1-1-1-1",
+     "last3f": "37.5",
+     "comment": "逃げて粘ったがアタマ差交わされた"
+    },
+    {
+     "finish": "3",
+     "number": 11,
+     "name": "アルフェラッツ",
+     "popularity": 3,
+     "jockey": "河原田菜々",
+     "passing": "2-2-2-2",
+     "last3f": "38.5",
+     "comment": "2番手追走から粘って3着"
+    },
+    {
+     "finish": "4",
+     "number": 1,
+     "name": "ヌーベルフィズ",
+     "popularity": 5,
+     "jockey": "西村淳",
+     "passing": "4-3-4-4",
+     "last3f": "38.3",
+     "comment": "好位から粘って4着"
+    },
+    {
+     "finish": "5",
+     "number": 7,
+     "name": "ピュアティアラ",
+     "popularity": 7,
+     "jockey": "丹内祐次",
+     "passing": "9-9-9-6",
+     "last3f": "38.3",
+     "comment": "後方から4コーナーで進出して5着"
+    },
+    {
+     "finish": "6",
+     "number": 13,
+     "name": "ウスズミザクラ",
+     "popularity": 13,
+     "jockey": "佐藤",
+     "passing": "14-15-13-14",
+     "last3f": "38.1",
+     "comment": "後方から終い伸びて6着"
+    },
+    {
+     "finish": "7",
+     "number": 6,
+     "name": "ガザニア",
+     "popularity": 9,
+     "jockey": "石神道宏",
+     "passing": "13-13-15-11",
+     "last3f": "38.0",
+     "comment": "後方から終い詰めたが7着まで"
+    },
+    {
+     "finish": "8",
+     "number": 14,
+     "name": "ウメヒナタ",
+     "popularity": 8,
+     "jockey": "永島まなみ",
+     "passing": "6-6-6-7",
+     "last3f": "39.2",
+     "comment": "中団から直線で伸びを欠いた"
+    },
+    {
+     "finish": "9",
+     "number": 5,
+     "name": "ニーナラルゴ",
+     "popularity": 6,
+     "jockey": "原田和真",
+     "passing": "5-5-5-5",
+     "last3f": "39.5",
+     "comment": "好位のまま流れ込む"
+    },
+    {
+     "finish": "10",
+     "number": 8,
+     "name": "ゴクラクチョウカ",
+     "popularity": 15,
+     "jockey": "遠藤",
+     "passing": "10-11-11-12",
+     "last3f": "39.0",
+     "comment": "中団後方から見せ場なく"
+    },
+    {
+     "finish": "11",
+     "number": 9,
+     "name": "フィールザウィル",
+     "popularity": 2,
+     "jockey": "小沢大仁",
+     "passing": "15-14-14-15",
+     "last3f": "38.8",
+     "comment": "終始後方"
+    },
+    {
+     "finish": "12",
+     "number": 10,
+     "name": "シャプシュ",
+     "popularity": 10,
+     "jockey": "松本大輝",
+     "passing": "11-10-10-9",
+     "last3f": "39.1",
+     "comment": "中団から見せ場なく"
+    },
+    {
+     "finish": "13",
+     "number": 12,
+     "name": "ゴッドブルーローズ",
+     "popularity": 14,
+     "jockey": "川又",
+     "passing": "12-12-8-8",
+     "last3f": "39.6",
+     "comment": "中団から直線で後退"
+    },
+    {
+     "finish": "14",
+     "number": 4,
+     "name": "マルジョレーヌ",
+     "popularity": 11,
+     "jockey": "柴田大知",
+     "passing": "8-8-10-13",
+     "last3f": "39.5",
+     "comment": "中団から直線で後退"
+    },
+    {
+     "finish": "15",
+     "number": 2,
+     "name": "シュトラールモルン",
+     "popularity": 12,
+     "jockey": "石田",
+     "passing": "7-7-9-10",
+     "last3f": "39.8",
+     "comment": "中団から直線で後退し最下位"
+    }
+   ]
+  },
+  {
+   "venue": "福島競馬場",
+   "raceNumber": 2,
+   "raceName": "サラ系3歳以上1勝クラス",
+   "surface": "ダート",
+   "distance": 1150,
+   "courseTrait": "福島ダ1150mはスタートから下りが続きスピードに乗りやすく、短距離ダートらしく逃げ・先行が残りやすい先行有利のコース。",
+   "raceFlow": "ペースはハイ。逃げた16スイーヴルは4着に粘り、中団から進出した勝ち馬が差し切る決着。2・3着も先行〜好位組。",
+   "winnerStyle": "差し型（通過5-5、中団から直線で伸びて差し切った）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 11,
+     "name": "コウソクルリアン",
+     "popularity": 1,
+     "jockey": "武藤雅",
+     "passing": "5-5",
+     "last3f": "35.6",
+     "comment": "中団から直線で伸びて差し切った"
+    },
+    {
+     "finish": "2",
+     "number": 5,
+     "name": "ワイドデコラシオン",
+     "popularity": 4,
+     "jockey": "戸崎圭太",
+     "passing": "2-2",
+     "last3f": "36.0",
+     "comment": "先行して粘ったが1/2馬身及ばず"
+    },
+    {
+     "finish": "3",
+     "number": 8,
+     "name": "ステラノヴァ",
+     "popularity": 2,
+     "jockey": "横山武史",
+     "passing": "6-7",
+     "last3f": "35.7",
+     "comment": "好位から粘って3着"
+    },
+    {
+     "finish": "4",
+     "number": 16,
+     "name": "スイーヴル",
+     "popularity": 3,
+     "jockey": "和田陽希",
+     "passing": "1-1",
+     "last3f": "36.2",
+     "comment": "逃げて粘ったが4着"
+    },
+    {
+     "finish": "5",
+     "number": 12,
+     "name": "シスター",
+     "popularity": 8,
+     "jockey": "菊沢一樹",
+     "passing": "4-3",
+     "last3f": "36.3",
+     "comment": "好位から終い伸びて5着"
+    },
+    {
+     "finish": "6",
+     "number": 1,
+     "name": "ロンバスブレス",
+     "popularity": 10,
+     "jockey": "石神道宏",
+     "passing": "7-6",
+     "last3f": "36.1",
+     "comment": "中団から終い伸びて6着"
+    },
+    {
+     "finish": "7",
+     "number": 2,
+     "name": "スペルビア",
+     "popularity": 12,
+     "jockey": "水沼",
+     "passing": "10-9",
+     "last3f": "35.7",
+     "comment": "後方から追い上げて7着"
+    },
+    {
+     "finish": "8",
+     "number": 13,
+     "name": "ミヤラティーニ",
+     "popularity": 6,
+     "jockey": "河原田菜々",
+     "passing": "8-10",
+     "last3f": "36.3",
+     "comment": "中団から伸び切れず"
+    },
+    {
+     "finish": "9",
+     "number": 14,
+     "name": "キャンドルマス",
+     "popularity": 9,
+     "jockey": "鮫島克駿",
+     "passing": "9-8",
+     "last3f": "36.3",
+     "comment": "中団のまま"
+    },
+    {
+     "finish": "10",
+     "number": 7,
+     "name": "シャインミラカナ",
+     "popularity": 16,
+     "jockey": "大久保",
+     "passing": "12-12",
+     "last3f": "35.7",
+     "comment": "後方から上がり最速タイで追い上げたが10着まで"
+    },
+    {
+     "finish": "11",
+     "number": 6,
+     "name": "エフエイト",
+     "popularity": 11,
+     "jockey": "横山和",
+     "passing": "15-16",
+     "last3f": "35.5",
+     "comment": "後方から上がり最速で追い上げたが11着まで"
+    },
+    {
+     "finish": "12",
+     "number": 4,
+     "name": "クラインシュミット",
+     "popularity": 15,
+     "jockey": "横山琉人",
+     "passing": "14-15",
+     "last3f": "35.6",
+     "comment": "後方から追い上げたが届かず"
+    },
+    {
+     "finish": "13",
+     "number": 10,
+     "name": "ミスチヴマリアンヌ",
+     "popularity": 14,
+     "jockey": "原田和真",
+     "passing": "11-11",
+     "last3f": "36.0",
+     "comment": "中団後方のまま"
+    },
+    {
+     "finish": "14",
+     "number": 15,
+     "name": "ヨドノティアラ",
+     "popularity": 7,
+     "jockey": "津村明秀",
+     "passing": "3-4",
+     "last3f": "37.1",
+     "comment": "先行したが直線で失速"
+    },
+    {
+     "finish": "15",
+     "number": 9,
+     "name": "イサチルシーキング",
+     "popularity": 5,
+     "jockey": "小林美駒",
+     "passing": "13-13",
+     "last3f": "36.3",
+     "comment": "後方のまま"
+    },
+    {
+     "finish": "16",
+     "number": 3,
+     "name": "ヴェネチアンキング",
+     "popularity": 13,
+     "jockey": "佐藤",
+     "passing": "16-14",
+     "last3f": "36.1",
+     "comment": "終始後方で最下位"
+    }
+   ]
+  },
+  {
+   "venue": "福島競馬場",
+   "raceNumber": 3,
+   "raceName": "サラ系2歳未勝利",
+   "surface": "ダート",
+   "distance": 1700,
+   "courseTrait": "福島ダ1700mは1コーナーまでの距離が短く先行争いが激しくなりやすい一方、スパイラルカーブで中団からも差し込める。基本は先行有利。",
+   "raceFlow": "ペースはミドル。逃げた勝ち馬がそのまま押し切り、2・3着も先行組で前残り決着。",
+   "winnerStyle": "先行型（逃げ）（通過1-1-1-1、スタートから先頭に立ち逃げ切った）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 14,
+     "name": "ランフェザー",
+     "popularity": 1,
+     "jockey": "斎藤新",
+     "passing": "1-1-1-1",
+     "last3f": "36.1",
+     "comment": "逃げてそのまま押し切った"
+    },
+    {
+     "finish": "2",
+     "number": 11,
+     "name": "テンソンコウリン",
+     "popularity": 2,
+     "jockey": "マーカンド",
+     "passing": "2-2-2-2",
+     "last3f": "36.3",
+     "comment": "2番手追走から粘って2着"
+    },
+    {
+     "finish": "3",
+     "number": 13,
+     "name": "エコロガルディア",
+     "popularity": 3,
+     "jockey": "丹内祐次",
+     "passing": "5-5-3-3",
+     "last3f": "37.2",
+     "comment": "好位から4コーナーで3番手に進出し3着"
+    },
+    {
+     "finish": "4",
+     "number": 15,
+     "name": "プリマアルバ",
+     "popularity": 5,
+     "jockey": "小沢大仁",
+     "passing": "10-9-8-6",
+     "last3f": "36.8",
+     "comment": "後方から4コーナーで進出して4着"
+    },
+    {
+     "finish": "5",
+     "number": 10,
+     "name": "ボンジュールパリ",
+     "popularity": 6,
+     "jockey": "鮫島克駿",
+     "passing": "4-4-5-4",
+     "last3f": "37.3",
+     "comment": "好位から粘って5着"
+    },
+    {
+     "finish": "6",
+     "number": 9,
+     "name": "マイバーゲン",
+     "popularity": 11,
+     "jockey": "水沼",
+     "passing": "14-13-6-5",
+     "last3f": "38.0",
+     "comment": "後方から3コーナーで進出して6着"
+    },
+    {
+     "finish": "7",
+     "number": 12,
+     "name": "スクリプトール",
+     "popularity": 4,
+     "jockey": "石川裕紀人",
+     "passing": "7-7-7-7",
+     "last3f": "37.8",
+     "comment": "中団のまま流れ込む"
+    },
+    {
+     "finish": "8",
+     "number": 6,
+     "name": "エスアンヴィユ",
+     "popularity": 12,
+     "jockey": "原",
+     "passing": "9-8-10-9",
+     "last3f": "37.4",
+     "comment": "中団から直線で伸びを欠いた"
+    },
+    {
+     "finish": "9",
+     "number": 5,
+     "name": "カリスマン",
+     "popularity": 13,
+     "jockey": "吉田隼人",
+     "passing": "8-10-11-11",
+     "last3f": "37.3",
+     "comment": "中団後方のまま"
+    },
+    {
+     "finish": "10",
+     "number": 4,
+     "name": "グリームウッド",
+     "popularity": 10,
+     "jockey": "横山琉人",
+     "passing": "6-6-9-8",
+     "last3f": "38.5",
+     "comment": "好位から直線で後退"
+    },
+    {
+     "finish": "11",
+     "number": 8,
+     "name": "コルキス",
+     "popularity": 7,
+     "jockey": "西村淳",
+     "passing": "3-3-4-10",
+     "last3f": "39.5",
+     "comment": "先行したが直線で大きく失速"
+    },
+    {
+     "finish": "12",
+     "number": 2,
+     "name": "タクミオジュウ",
+     "popularity": 9,
+     "jockey": "菅原明",
+     "passing": "13-12-12-12",
+     "last3f": "38.7",
+     "comment": "後方のまま"
+    },
+    {
+     "finish": "13",
+     "number": 3,
+     "name": "レガシーマインド",
+     "popularity": 8,
+     "jockey": "酒井",
+     "passing": "11-11-13-13",
+     "last3f": "38.1",
+     "comment": "後方から見せ場なく"
+    },
+    {
+     "finish": "14",
+     "number": 7,
+     "name": "ラヴァレード",
+     "popularity": 15,
+     "jockey": "佐藤",
+     "passing": "15-15-15-15",
+     "last3f": "37.5",
+     "comment": "終始後方"
+    },
+    {
+     "finish": "15",
+     "number": 1,
+     "name": "マックスプロックス",
+     "popularity": 14,
+     "jockey": "長浜",
+     "passing": "12-14-14-14",
+     "last3f": "38.5",
+     "comment": "後方から伸びず最下位"
+    }
+   ]
+  },
+  {
+   "venue": "福島競馬場",
+   "raceNumber": 4,
+   "raceName": "サラ系3歳以上障害未勝利",
+   "surface": "障害",
+   "distance": 2770,
+   "courseTrait": "福島の障害コースは直線の坂とバンケットが特徴で、飛越の安定性とスタミナが問われる。先行してリズム良く運べる馬が有利。",
+   "raceFlow": "障害戦のためペース表示なし。逃げた勝ち馬が7馬身差で圧勝し、2・3着も先行組で前残り決着。1番人気ミスティックレインは4着。",
+   "winnerStyle": "先行型（逃げ）（通過1-1-1-1、スタートから先頭に立ち7馬身差で圧勝した）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 7,
+     "name": "バンデルオーラ",
+     "popularity": 2,
+     "jockey": "五十嵐",
+     "passing": "1-1-1-1",
+     "last3f": "13.4",
+     "comment": "逃げてそのまま7馬身差で圧勝した"
+    },
+    {
+     "finish": "2",
+     "number": 8,
+     "name": "ウインシュクラン",
+     "popularity": 3,
+     "jockey": "上野",
+     "passing": "3-3-3-2",
+     "last3f": "13.5",
+     "comment": "先行して粘って2着"
+    },
+    {
+     "finish": "3",
+     "number": 11,
+     "name": "ホウオウサンデー",
+     "popularity": 7,
+     "jockey": "小野寺",
+     "passing": "4-4-4-3",
+     "last3f": "13.5",
+     "comment": "先行して粘って3着"
+    },
+    {
+     "finish": "4",
+     "number": 1,
+     "name": "ミスティックレイン",
+     "popularity": 1,
+     "jockey": "中村",
+     "passing": "5-5-5-4",
+     "last3f": "13.6",
+     "comment": "好位から粘ったが4着"
+    },
+    {
+     "finish": "5",
+     "number": 3,
+     "name": "シュエットアムール",
+     "popularity": 9,
+     "jockey": "江田勇",
+     "passing": "8-8-6-6",
+     "last3f": "13.6",
+     "comment": "中団から終い伸びて5着"
+    },
+    {
+     "finish": "6",
+     "number": 5,
+     "name": "プレミアブルー",
+     "popularity": 5,
+     "jockey": "草野",
+     "passing": "11-10-7-7",
+     "last3f": "13.6",
+     "comment": "後方から進出して6着"
+    },
+    {
+     "finish": "7",
+     "number": 4,
+     "name": "フェイトライン",
+     "popularity": 11,
+     "jockey": "小牧加",
+     "passing": "7-6-8-8",
+     "last3f": "13.7",
+     "comment": "中団のまま流れ込む"
+    },
+    {
+     "finish": "8",
+     "number": 10,
+     "name": "ミクソロジー",
+     "popularity": 6,
+     "jockey": "高田潤",
+     "passing": "10-11-11-9",
+     "last3f": "13.8",
+     "comment": "後方から少しだけ押し上げ"
+    },
+    {
+     "finish": "9",
+     "number": 13,
+     "name": "ルクスマーベリック",
+     "popularity": 4,
+     "jockey": "小林凌",
+     "passing": "2-2-2-5",
+     "last3f": "13.9",
+     "comment": "2番手追走も直線で失速"
+    },
+    {
+     "finish": "10",
+     "number": 9,
+     "name": "シュハリ",
+     "popularity": 10,
+     "jockey": "大江圭",
+     "passing": "9-9-9-10",
+     "last3f": "13.9",
+     "comment": "中団から見せ場なく"
+    },
+    {
+     "finish": "11",
+     "number": 6,
+     "name": "モアリジット",
+     "popularity": 8,
+     "jockey": "森一",
+     "passing": "6-7-10-11",
+     "last3f": "14.0",
+     "comment": "中団から直線で後退"
+    },
+    {
+     "finish": "12",
+     "number": 2,
+     "name": "パンパネイラ",
+     "popularity": 12,
+     "jockey": "坂口",
+     "passing": "12-12-12-12",
+     "last3f": "14.1",
+     "comment": "終始後方"
+    },
+    {
+     "finish": "13",
+     "number": 12,
+     "name": "ラッキーダンス",
+     "popularity": 13,
+     "jockey": "水沼",
+     "passing": "13-13-13-13",
+     "last3f": "15.5",
+     "comment": "終始後方で大差の最下位"
+    }
+   ]
+  },
+  {
+   "venue": "福島競馬場",
+   "raceNumber": 5,
+   "raceName": "サラ系3歳以上障害オープン",
+   "surface": "障害",
+   "distance": 3380,
+   "courseTrait": "福島障害3380mは長丁場の障害戦で、飛越の安定性とスタミナが問われ、道中の位置取りと終いの脚が勝負を分ける。",
+   "raceFlow": "障害戦のためペース表示なし。勝ち馬は中団から4コーナーで2番手に進出し、4コーナー先頭のディベルティスマンをクビ差交わす接戦。1番人気シャンデルナゴルは10着に敗れた。",
+   "winnerStyle": "先行型（通過10-8-6-2、中団から4コーナーで2番手に進出し、直線で先頭に立って押し切った）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 5,
+     "name": "オーサムストローク",
+     "popularity": 5,
+     "jockey": "草野",
+     "passing": "10-8-6-2",
+     "last3f": "13.5",
+     "comment": "中団から4コーナーで2番手に進出し、直線で差し切った"
+    },
+    {
+     "finish": "2",
+     "number": 4,
+     "name": "ディベルティスマン",
+     "popularity": 4,
+     "jockey": "伴",
+     "passing": "5-5-3-1",
+     "last3f": "13.5",
+     "comment": "好位から4コーナーで先頭に立ったがクビ差交わされた"
+    },
+    {
+     "finish": "3",
+     "number": 11,
+     "name": "トゥラッタッタ",
+     "popularity": 2,
+     "jockey": "五十嵐",
+     "passing": "3-4-5-5",
+     "last3f": "13.5",
+     "comment": "先行して粘って3着"
+    },
+    {
+     "finish": "4",
+     "number": 6,
+     "name": "ポワンキュルミナン",
+     "popularity": 11,
+     "jockey": "小野寺",
+     "passing": "6-7-7-6",
+     "last3f": "13.6",
+     "comment": "中団から終い伸びて4着"
+    },
+    {
+     "finish": "5",
+     "number": 13,
+     "name": "サングラデーション",
+     "popularity": 3,
+     "jockey": "上野",
+     "passing": "4-2-1-3",
+     "last3f": "13.6",
+     "comment": "3コーナーで先頭に立ったが直線で後退"
+    },
+    {
+     "finish": "6",
+     "number": 1,
+     "name": "アクロスザリバー",
+     "popularity": 13,
+     "jockey": "坂口",
+     "passing": "1-1-4-7",
+     "last3f": "13.6",
+     "comment": "逃げたが3コーナーで後退"
+    },
+    {
+     "finish": "7",
+     "number": 7,
+     "name": "ドラギニャン",
+     "popularity": 9,
+     "jockey": "井上",
+     "passing": "7-6-2-4",
+     "last3f": "13.6",
+     "comment": "中団から3コーナーで進出したが7着"
+    },
+    {
+     "finish": "8",
+     "number": 3,
+     "name": "ジーククローネ",
+     "popularity": 8,
+     "jockey": "大江圭",
+     "passing": "8-9-9-8",
+     "last3f": "13.7",
+     "comment": "中団後方のまま"
+    },
+    {
+     "finish": "9",
+     "number": 12,
+     "name": "パープルアドミラル",
+     "popularity": 7,
+     "jockey": "金子",
+     "passing": "13-12-11-9",
+     "last3f": "13.8",
+     "comment": "後方から少しだけ押し上げ"
+    },
+    {
+     "finish": "10",
+     "number": 9,
+     "name": "シャンデルナゴル",
+     "popularity": 1,
+     "jockey": "森一",
+     "passing": "9-11-10-11",
+     "last3f": "13.8",
+     "comment": "後方から見せ場なく大敗"
+    },
+    {
+     "finish": "11",
+     "number": 2,
+     "name": "ゴールドブリーズ",
+     "popularity": 12,
+     "jockey": "水沼",
+     "passing": "2-3-8-10",
+     "last3f": "13.9",
+     "comment": "先行したが3コーナーで後退"
+    },
+    {
+     "finish": "12",
+     "number": 10,
+     "name": "ウォーターリーダー",
+     "popularity": 6,
+     "jockey": "高田潤",
+     "passing": "12-13-12-12",
+     "last3f": "14.1",
+     "comment": "後方のまま"
+    },
+    {
+     "finish": "13",
+     "number": 8,
+     "name": "リッケンバッカー",
+     "popularity": 10,
+     "jockey": "小牧加",
+     "passing": "11-10-13-13",
+     "last3f": "14.2",
+     "comment": "後方から伸びず最下位"
+    }
+   ]
+  },
+  {
+   "venue": "福島競馬場",
+   "raceNumber": 6,
+   "raceName": "サラ系3歳以上1勝クラス",
+   "surface": "ダート",
+   "distance": 1700,
+   "courseTrait": "福島ダ1700mは1コーナーまでの距離が短く先行争いが激しくなりやすい一方、スパイラルカーブで中団からも差し込める。基本は先行有利。",
+   "raceFlow": "ペースはミドル。逃げた勝ち馬がクビ差で押し切り、2着も2番手追走馬で前残り決着。2番人気ブリッジエフェクトは12着に大敗。",
+   "winnerStyle": "先行型（逃げ）（通過1-1-1-1、スタートから先頭に立ちクビ差で逃げ切った）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 7,
+     "name": "リュウカルネ",
+     "popularity": 1,
+     "jockey": "横山武史",
+     "passing": "1-1-1-1",
+     "last3f": "37.1",
+     "comment": "逃げてそのままクビ差で押し切った"
+    },
+    {
+     "finish": "2",
+     "number": 11,
+     "name": "メイショウアボット",
+     "popularity": 6,
+     "jockey": "マーカンド",
+     "passing": "2-2-2-2",
+     "last3f": "37.1",
+     "comment": "2番手追走から粘って2着"
+    },
+    {
+     "finish": "3",
+     "number": 9,
+     "name": "クルビデンス",
+     "popularity": 9,
+     "jockey": "佐々木",
+     "passing": "5-5-5-5",
+     "last3f": "37.0",
+     "comment": "好位から粘って3着"
+    },
+    {
+     "finish": "4",
+     "number": 3,
+     "name": "ポンピエ",
+     "popularity": 3,
+     "jockey": "吉田隼人",
+     "passing": "13-13-12-11",
+     "last3f": "36.5",
+     "comment": "後方から上がり最速で追い込んだが4着まで"
+    },
+    {
+     "finish": "5",
+     "number": 10,
+     "name": "バケラッタ",
+     "popularity": 7,
+     "jockey": "鮫島克駿",
+     "passing": "3-3-4-4",
+     "last3f": "37.3",
+     "comment": "先行して粘って5着"
+    },
+    {
+     "finish": "6",
+     "number": 12,
+     "name": "スノースコール",
+     "popularity": 14,
+     "jockey": "木幡巧",
+     "passing": "4-4-3-3",
+     "last3f": "37.6",
+     "comment": "好位から粘って6着"
+    },
+    {
+     "finish": "7",
+     "number": 1,
+     "name": "チェイサー",
+     "popularity": 11,
+     "jockey": "佐藤",
+     "passing": "7-7-9-8",
+     "last3f": "36.9",
+     "comment": "中団から終い伸びて7着"
+    },
+    {
+     "finish": "8",
+     "number": 15,
+     "name": "ナリノシャーウッド",
+     "popularity": 10,
+     "jockey": "菊沢一樹",
+     "passing": "9-9-7-6",
+     "last3f": "37.3",
+     "comment": "中団から4コーナーで進出して8着"
+    },
+    {
+     "finish": "9",
+     "number": 2,
+     "name": "ギャランドゥ",
+     "popularity": 15,
+     "jockey": "大野拓弥",
+     "passing": "15-15-14-14",
+     "last3f": "36.3",
+     "comment": "後方から上がり最速タイで追い上げたが9着まで"
+    },
+    {
+     "finish": "10",
+     "number": 6,
+     "name": "レッドフロイデ",
+     "popularity": 4,
+     "jockey": "河原田菜々",
+     "passing": "14-12-11-10",
+     "last3f": "37.0",
+     "comment": "後方から追い上げたが10着まで"
+    },
+    {
+     "finish": "11",
+     "number": 14,
+     "name": "ブリスキー",
+     "popularity": 13,
+     "jockey": "西村淳",
+     "passing": "6-6-6-7",
+     "last3f": "37.8",
+     "comment": "好位から直線で失速"
+    },
+    {
+     "finish": "12",
+     "number": 13,
+     "name": "ブリッジエフェクト",
+     "popularity": 2,
+     "jockey": "斎藤新",
+     "passing": "10-10-8-9",
+     "last3f": "39.0",
+     "comment": "中団から直線で大きく失速"
+    },
+    {
+     "finish": "13",
+     "number": 4,
+     "name": "アラクラン",
+     "popularity": 12,
+     "jockey": "丹内祐次",
+     "passing": "8-8-10-12",
+     "last3f": "38.8",
+     "comment": "中団から直線で後退"
+    },
+    {
+     "finish": "14",
+     "number": 5,
+     "name": "ララエキリーブル",
+     "popularity": 8,
+     "jockey": "石川裕紀人",
+     "passing": "11-13-13-13",
+     "last3f": "38.8",
+     "comment": "後方のまま"
+    },
+    {
+     "finish": "15",
+     "number": 8,
+     "name": "ナクライト",
+     "popularity": 5,
+     "jockey": "横山和",
+     "passing": "12-14-15-15",
+     "last3f": "38.8",
+     "comment": "後方から伸びず最下位"
+    }
+   ]
+  },
+  {
+   "venue": "福島競馬場",
+   "raceNumber": 7,
+   "raceName": "サラ系2歳未勝利",
+   "surface": "芝",
+   "distance": 1800,
+   "courseTrait": "福島芝1800mはスタートから1コーナーまでが短くポジション取りが重要で、スパイラルカーブで外を回すと距離ロスが大きいため内・先行有利の傾向。",
+   "raceFlow": "ペースはミドル（テン3F 36.3／上がり3F 37.8）。4コーナー2番手の13サスケサートゥルら先行勢が直線で失速し、後方から追い込んだ勝ち馬が差し切る追い込み決着。1番人気コスモバルムンクは5着。",
+   "winnerStyle": "追い込み型（通過6-6-8-11、後方から直線で鋭く伸びて差し切った）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 7,
+     "name": "イドム",
+     "popularity": 4,
+     "jockey": "松本大輝",
+     "passing": "6-6-8-11",
+     "last3f": "37.3",
+     "comment": "後方から直線で鋭く伸びて差し切った"
+    },
+    {
+     "finish": "2",
+     "number": 3,
+     "name": "プリズンブレイク",
+     "popularity": 7,
+     "jockey": "杉原誠人",
+     "passing": "16-16-16-15",
+     "last3f": "36.7",
+     "comment": "最後方から上がり最速で追い込んで2着"
+    },
+    {
+     "finish": "3",
+     "number": 1,
+     "name": "スターマイン",
+     "popularity": 3,
+     "jockey": "西村淳",
+     "passing": "3-3-4-7",
+     "last3f": "37.7",
+     "comment": "好位から粘って3着"
+    },
+    {
+     "finish": "4",
+     "number": 9,
+     "name": "アントレピード",
+     "popularity": 2,
+     "jockey": "マーカンド",
+     "passing": "4-5-5-4",
+     "last3f": "37.7",
+     "comment": "好位から粘ったが4着"
+    },
+    {
+     "finish": "5",
+     "number": 14,
+     "name": "コスモバルムンク",
+     "popularity": 1,
+     "jockey": "丹内祐次",
+     "passing": "5-4-3-3",
+     "last3f": "37.9",
+     "comment": "好位から4コーナーで3番手に進出したが5着"
+    },
+    {
+     "finish": "6",
+     "number": 10,
+     "name": "ランドジャイアンツ",
+     "popularity": 6,
+     "jockey": "大野拓弥",
+     "passing": "7-7-6-5",
+     "last3f": "37.9",
+     "comment": "中団から終い伸びて6着"
+    },
+    {
+     "finish": "7",
+     "number": 12,
+     "name": "エムアイブレイズ",
+     "popularity": 9,
+     "jockey": "原",
+     "passing": "14-14-15-12",
+     "last3f": "37.5",
+     "comment": "後方から追い上げて7着"
+    },
+    {
+     "finish": "8",
+     "number": 16,
+     "name": "ジャストゴーイング",
+     "popularity": 5,
+     "jockey": "菅原明",
+     "passing": "13-13-10-8",
+     "last3f": "37.8",
+     "comment": "後方から4コーナーで進出して8着"
+    },
+    {
+     "finish": "9",
+     "number": 5,
+     "name": "ゾネンバーデン",
+     "popularity": 11,
+     "jockey": "菊沢一樹",
+     "passing": "9-9-9-9",
+     "last3f": "37.8",
+     "comment": "中団のまま流れ込む"
+    },
+    {
+     "finish": "10",
+     "number": 2,
+     "name": "マイホームパパ",
+     "popularity": 16,
+     "jockey": "江田照",
+     "passing": "8-8-14-13",
+     "last3f": "37.7",
+     "comment": "中団から直線で後退"
+    },
+    {
+     "finish": "11",
+     "number": 6,
+     "name": "ティシポネ",
+     "popularity": 13,
+     "jockey": "石神道宏",
+     "passing": "11-11-11-10",
+     "last3f": "38.0",
+     "comment": "中団後方のまま"
+    },
+    {
+     "finish": "12",
+     "number": 8,
+     "name": "ヴェールネージュ",
+     "popularity": 15,
+     "jockey": "河原田菜々",
+     "passing": "12-12-12-16",
+     "last3f": "38.3",
+     "comment": "中団から直線で後退"
+    },
+    {
+     "finish": "13",
+     "number": 11,
+     "name": "キタノクラウド",
+     "popularity": 12,
+     "jockey": "柴田大知",
+     "passing": "15-15-13-14",
+     "last3f": "39.2",
+     "comment": "後方から見せ場なく"
+    },
+    {
+     "finish": "14",
+     "number": 13,
+     "name": "サスケサートゥル",
+     "popularity": 10,
+     "jockey": "佐々木",
+     "passing": "2-2-2-2",
+     "last3f": "42.5",
+     "comment": "4コーナー2番手から直線で大きく失速"
+    },
+    {
+     "finish": "15",
+     "number": 15,
+     "name": "スズノハヤブサ",
+     "popularity": 14,
+     "jockey": "荻野極",
+     "passing": "10-10-7-6",
+     "last3f": "42.4",
+     "comment": "中団から4コーナーで進出も直線で大きく失速"
+    },
+    {
+     "finish": "16",
+     "number": 4,
+     "name": "コッディ",
+     "popularity": 8,
+     "jockey": "丸山",
+     "passing": "1-1-1-1",
+     "last3f": "43.5",
+     "comment": "逃げたが直線で大きく失速し最下位"
+    }
+   ]
+  },
+  {
+   "venue": "福島競馬場",
+   "raceNumber": 8,
+   "raceName": "サラ系3歳以上1勝クラス（牝）",
+   "surface": "芝",
+   "distance": 2000,
+   "courseTrait": "福島芝2000mはスタートから1コーナーまでが短くポジション取りが重要で、スパイラルカーブで外を回すと距離ロスが大きいため内・先行有利の傾向。",
+   "raceFlow": "ペースはミドル（テン3F 35.1／上がり3F 37.5）。4コーナー先頭の8オリーボーレンは4着に粘り、好位から進出した勝ち馬が抜け出す先行決着。1番人気ピカキウイは3着。",
+   "winnerStyle": "先行型（通過5-6-6-2、好位から4コーナーで2番手に進出し、直線で抜け出した）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 11,
+     "name": "フレキシブル",
+     "popularity": 4,
+     "jockey": "斎藤新",
+     "passing": "5-6-6-2",
+     "last3f": "37.2",
+     "comment": "好位から4コーナーで2番手に進出し、直線で抜け出した"
+    },
+    {
+     "finish": "2",
+     "number": 1,
+     "name": "サッポロイクコ",
+     "popularity": 9,
+     "jockey": "戸崎圭太",
+     "passing": "4-4-5-5",
+     "last3f": "37.3",
+     "comment": "好位から粘って2着"
+    },
+    {
+     "finish": "3",
+     "number": 3,
+     "name": "ピカキウイ",
+     "popularity": 1,
+     "jockey": "鮫島克駿",
+     "passing": "10-10-10-6",
+     "last3f": "37.1",
+     "comment": "中団から4コーナーで進出して3着"
+    },
+    {
+     "finish": "4",
+     "number": 8,
+     "name": "オリーボーレン",
+     "popularity": 8,
+     "jockey": "永島まなみ",
+     "passing": "3-3-1-1",
+     "last3f": "37.7",
+     "comment": "3コーナーで先頭に立ったが直線で捕まり4着"
+    },
+    {
+     "finish": "5",
+     "number": 9,
+     "name": "モルビド",
+     "popularity": 14,
+     "jockey": "小沢大仁",
+     "passing": "15-16-4-3",
+     "last3f": "37.7",
+     "comment": "後方から3コーナーで一気に進出し5着"
+    },
+    {
+     "finish": "6",
+     "number": 16,
+     "name": "ムーンストラック",
+     "popularity": 6,
+     "jockey": "津村明秀",
+     "passing": "12-12-13-8",
+     "last3f": "36.9",
+     "comment": "後方から上がり最速で追い上げて6着"
+    },
+    {
+     "finish": "7",
+     "number": 10,
+     "name": "カリーン",
+     "popularity": 12,
+     "jockey": "丸山",
+     "passing": "7-7-9-7",
+     "last3f": "37.4",
+     "comment": "中団から終い伸びて7着"
+    },
+    {
+     "finish": "8",
+     "number": 6,
+     "name": "デルマホダカ",
+     "popularity": 5,
+     "jockey": "菊沢一樹",
+     "passing": "8-8-7-4",
+     "last3f": "37.7",
+     "comment": "中団から4コーナーで進出も伸び切れず"
+    },
+    {
+     "finish": "9",
+     "number": 7,
+     "name": "レイヌドプランタン",
+     "popularity": 7,
+     "jockey": "横山琉人",
+     "passing": "11-11-12-15",
+     "last3f": "37.3",
+     "comment": "後方から見せ場なく"
+    },
+    {
+     "finish": "10",
+     "number": 12,
+     "name": "ソングオブザバード",
+     "popularity": 2,
+     "jockey": "横山武史",
+     "passing": "14-13-15-11",
+     "last3f": "37.2",
+     "comment": "後方から追い上げたが10着まで"
+    },
+    {
+     "finish": "11",
+     "number": 5,
+     "name": "ワダツミ",
+     "popularity": 3,
+     "jockey": "小林美駒",
+     "passing": "16-15-16-12",
+     "last3f": "37.3",
+     "comment": "後方から少しだけ押し上げ"
+    },
+    {
+     "finish": "12",
+     "number": 2,
+     "name": "グラスベルグ",
+     "popularity": 15,
+     "jockey": "亀田",
+     "passing": "6-5-8-10",
+     "last3f": "38.2",
+     "comment": "好位から直線で後退"
+    },
+    {
+     "finish": "13",
+     "number": 14,
+     "name": "サフランルージュ",
+     "popularity": 13,
+     "jockey": "野中",
+     "passing": "9-9-11-14",
+     "last3f": "37.9",
+     "comment": "中団から直線で後退"
+    },
+    {
+     "finish": "14",
+     "number": 15,
+     "name": "フジサン",
+     "popularity": 11,
+     "jockey": "大野拓弥",
+     "passing": "13-14-14-16",
+     "last3f": "37.9",
+     "comment": "後方のまま"
+    },
+    {
+     "finish": "15",
+     "number": 4,
+     "name": "ウアーシュプルング",
+     "popularity": 10,
+     "jockey": "丹内祐次",
+     "passing": "2-2-3-9",
+     "last3f": "41.9",
+     "comment": "先行したが直線で大きく失速"
+    },
+    {
+     "finish": "16",
+     "number": 13,
+     "name": "ドウカキミニトドケ",
+     "popularity": 16,
+     "jockey": "浜中俊",
+     "passing": "1-1-2-13",
+     "last3f": "42.6",
+     "comment": "逃げたが直線で大きく失速し最下位"
+    }
+   ]
+  },
+  {
+   "venue": "福島競馬場",
+   "raceNumber": 9,
+   "raceName": "高湯温泉特別",
+   "surface": "芝",
+   "distance": 1800,
+   "courseTrait": "福島芝1800mはスタートから1コーナーまでが短くポジション取りが重要で、スパイラルカーブで外を回すと距離ロスが大きいため内・先行有利の傾向。",
+   "raceFlow": "ペースはハイ（テン3F 35.5／上がり3F 38.2）。逃げた12ホールドザデイは6着に失速し、好位から進出した勝ち馬がクビ差で差し切る決着。1番人気ホールドザデイは6着、2番人気ディバインウインドは7着。",
+   "winnerStyle": "先行型（通過5-5-5-3、好位から4コーナーで3番手に進出し、直線で抜け出した）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 15,
+     "name": "バンオンタイム",
+     "popularity": 3,
+     "jockey": "戸崎圭太",
+     "passing": "5-5-5-3",
+     "last3f": "37.8",
+     "comment": "好位から4コーナーで3番手に進出し、直線で抜け出した"
+    },
+    {
+     "finish": "2",
+     "number": 16,
+     "name": "メリザンド",
+     "popularity": 7,
+     "jockey": "マーカンド",
+     "passing": "8-7-7-5",
+     "last3f": "37.6",
+     "comment": "中団から終い伸びて2着"
+    },
+    {
+     "finish": "3",
+     "number": 13,
+     "name": "ベネディクション",
+     "popularity": 11,
+     "jockey": "古川奈穂",
+     "passing": "15-13-16-12",
+     "last3f": "37.3",
+     "comment": "後方から上がり最速で追い込んで3着"
+    },
+    {
+     "finish": "4",
+     "number": 11,
+     "name": "ブランヴァンダイク",
+     "popularity": 16,
+     "jockey": "西塚",
+     "passing": "11-12-13-15",
+     "last3f": "37.5",
+     "comment": "後方から追い込んで4着"
+    },
+    {
+     "finish": "5",
+     "number": 14,
+     "name": "ミッションルース",
+     "popularity": 15,
+     "jockey": "木幡巧",
+     "passing": "12-11-8-6",
+     "last3f": "37.9",
+     "comment": "後方から4コーナーで進出して5着"
+    },
+    {
+     "finish": "6",
+     "number": 12,
+     "name": "ホールドザデイ",
+     "popularity": 1,
+     "jockey": "横山和",
+     "passing": "1-1-1-1",
+     "last3f": "38.7",
+     "comment": "逃げたが直線で失速"
+    },
+    {
+     "finish": "7",
+     "number": 2,
+     "name": "ディバインウインド",
+     "popularity": 2,
+     "jockey": "西村淳",
+     "passing": "6-6-6-7",
+     "last3f": "38.2",
+     "comment": "好位のまま伸びず"
+    },
+    {
+     "finish": "8",
+     "number": 7,
+     "name": "ケイアイカラキア",
+     "popularity": 13,
+     "jockey": "柴田大知",
+     "passing": "7-9-11-8",
+     "last3f": "37.9",
+     "comment": "中団から終い伸びて8着"
+    },
+    {
+     "finish": "9",
+     "number": 9,
+     "name": "タイキルッジェーロ",
+     "popularity": 8,
+     "jockey": "斎藤新",
+     "passing": "9-10-14-13",
+     "last3f": "37.7",
+     "comment": "中団から見せ場なく"
+    },
+    {
+     "finish": "10",
+     "number": 10,
+     "name": "ニシノコマチムスメ",
+     "popularity": 14,
+     "jockey": "菊沢一樹",
+     "passing": "14-15-15-11",
+     "last3f": "37.9",
+     "comment": "後方から少しだけ押し上げ"
+    },
+    {
+     "finish": "11",
+     "number": 1,
+     "name": "アドミラルシップ",
+     "popularity": 5,
+     "jockey": "丹内祐次",
+     "passing": "16-16-12-9",
+     "last3f": "38.1",
+     "comment": "後方から進出も伸び切れず"
+    },
+    {
+     "finish": "12",
+     "number": 3,
+     "name": "ジーティーシンドウ",
+     "popularity": 4,
+     "jockey": "小沢大仁",
+     "passing": "3-3-2-2",
+     "last3f": "39.0",
+     "comment": "先行したが直線で失速"
+    },
+    {
+     "finish": "13",
+     "number": 5,
+     "name": "クイーンズワーフ",
+     "popularity": 12,
+     "jockey": "小林美駒",
+     "passing": "13-14-4-4",
+     "last3f": "39.2",
+     "comment": "3コーナーで4番手まで進出も直線で失速"
+    },
+    {
+     "finish": "14",
+     "number": 8,
+     "name": "エタンセル",
+     "popularity": 9,
+     "jockey": "菅原明",
+     "passing": "4-4-10-16",
+     "last3f": "39.8",
+     "comment": "好位から直線で大きく失速"
+    },
+    {
+     "finish": "15",
+     "number": 4,
+     "name": "ミエノストロング",
+     "popularity": 10,
+     "jockey": "荻野極",
+     "passing": "10-8-9-14",
+     "last3f": "39.7",
+     "comment": "中団から直線で後退"
+    },
+    {
+     "finish": "16",
+     "number": 6,
+     "name": "コンバットペスカ",
+     "popularity": 6,
+     "jockey": "川又",
+     "passing": "2-2-3-10",
+     "last3f": "42.1",
+     "comment": "2番手追走も直線で大きく失速し最下位"
+    }
+   ]
+  },
+  {
+   "venue": "福島競馬場",
+   "raceNumber": 10,
+   "raceName": "福島放送賞",
+   "surface": "ダート",
+   "distance": 1150,
+   "courseTrait": "福島ダ1150mはスタートから下りが続きスピードに乗りやすく、短距離ダートらしく逃げ・先行が残りやすい先行有利のコース。",
+   "raceFlow": "ペースはハイ。逃げた2ショウナンラリーは13着に沈み、2番手追走の勝ち馬が抜け出す先行決着。1番人気ソニックブレイカーは2着。",
+   "winnerStyle": "先行型（通過2-2、2番手追走から直線で抜け出した）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 3,
+     "name": "ビーマックス",
+     "popularity": 7,
+     "jockey": "浜中俊",
+     "passing": "2-2",
+     "last3f": "36.2",
+     "comment": "2番手追走から直線で抜け出した"
+    },
+    {
+     "finish": "2",
+     "number": 1,
+     "name": "ソニックブレイカー",
+     "popularity": 1,
+     "jockey": "横山武史",
+     "passing": "4-4",
+     "last3f": "36.0",
+     "comment": "好位から粘って2着"
+    },
+    {
+     "finish": "3",
+     "number": 14,
+     "name": "ゼファーテソーロ",
+     "popularity": 6,
+     "jockey": "マーカンド",
+     "passing": "10-10",
+     "last3f": "35.8",
+     "comment": "中団から終い伸びて3着"
+    },
+    {
+     "finish": "4",
+     "number": 7,
+     "name": "モズオウンゴール",
+     "popularity": 3,
+     "jockey": "永島まなみ",
+     "passing": "3-3",
+     "last3f": "36.3",
+     "comment": "先行して粘ったが4着"
+    },
+    {
+     "finish": "5",
+     "number": 16,
+     "name": "ナムラモモ",
+     "popularity": 9,
+     "jockey": "小沢大仁",
+     "passing": "8-8",
+     "last3f": "36.3",
+     "comment": "中団から終い伸びて5着"
+    },
+    {
+     "finish": "6",
+     "number": 9,
+     "name": "レイアポポ",
+     "popularity": 13,
+     "jockey": "原",
+     "passing": "16-13",
+     "last3f": "35.7",
+     "comment": "後方から上がり最速で追い上げて6着"
+    },
+    {
+     "finish": "7",
+     "number": 6,
+     "name": "ペルセポネ",
+     "popularity": 2,
+     "jockey": "河原田菜々",
+     "passing": "6-7",
+     "last3f": "36.5",
+     "comment": "好位から直線で伸びを欠いた"
+    },
+    {
+     "finish": "8",
+     "number": 15,
+     "name": "コックピットサイト",
+     "popularity": 4,
+     "jockey": "荻野極",
+     "passing": "11-12",
+     "last3f": "36.3",
+     "comment": "後方から追い上げたが8着まで"
+    },
+    {
+     "finish": "9",
+     "number": 8,
+     "name": "パルプフィクション",
+     "popularity": 14,
+     "jockey": "富田暁",
+     "passing": "9-6",
+     "last3f": "36.5",
+     "comment": "中団から4コーナーで進出も伸び切れず"
+    },
+    {
+     "finish": "10",
+     "number": 11,
+     "name": "クインズポラリス",
+     "popularity": 5,
+     "jockey": "田辺裕信",
+     "passing": "14-15",
+     "last3f": "36.4",
+     "comment": "後方のまま"
+    },
+    {
+     "finish": "11",
+     "number": 10,
+     "name": "フェデルミエール",
+     "popularity": 16,
+     "jockey": "横山琉人",
+     "passing": "13-14",
+     "last3f": "36.6",
+     "comment": "後方から見せ場なく"
+    },
+    {
+     "finish": "12",
+     "number": 4,
+     "name": "インディゴアスール",
+     "popularity": 11,
+     "jockey": "丹内祐次",
+     "passing": "5-5",
+     "last3f": "37.3",
+     "comment": "好位から直線で失速"
+    },
+    {
+     "finish": "13",
+     "number": 2,
+     "name": "ショウナンラリー",
+     "popularity": 12,
+     "jockey": "鮫島克駿",
+     "passing": "1-1",
+     "last3f": "37.8",
+     "comment": "逃げたが直線で大きく失速"
+    },
+    {
+     "finish": "14",
+     "number": 13,
+     "name": "ビーグラッド",
+     "popularity": 8,
+     "jockey": "戸崎圭太",
+     "passing": "15-16",
+     "last3f": "37.0",
+     "comment": "後方のまま"
+    },
+    {
+     "finish": "15",
+     "number": 5,
+     "name": "ニシノラヴァンダ",
+     "popularity": 10,
+     "jockey": "丸田",
+     "passing": "12-9",
+     "last3f": "37.2",
+     "comment": "中団から直線で後退"
+    },
+    {
+     "finish": "16",
+     "number": 12,
+     "name": "ペイシャヴァルツー",
+     "popularity": 15,
+     "jockey": "井上",
+     "passing": "7-11",
+     "last3f": "39.4",
+     "comment": "中団から直線で大きく失速し大差の最下位"
+    }
+   ]
+  },
+  {
+   "venue": "福島競馬場",
+   "raceNumber": 11,
+   "raceName": "第62回 福島記念",
+   "surface": "芝",
+   "distance": 2000,
+   "courseTrait": "福島芝2000mはスタートから1コーナーまでが短くポジション取りが重要で、スパイラルカーブで外を回すと距離ロスが大きいため内・先行有利の傾向。",
+   "raceFlow": "ペースはミドル（テン3F 36.1／上がり3F 36.4）。逃げた3ゼンダンハヤブサが2着に粘り、好位から進出した1番人気の勝ち馬が差し切る決着。2番人気フォルテアンジェロは7着。",
+   "winnerStyle": "先行型（通過7-7-6-2、好位から4コーナーで2番手に進出し、直線で抜け出した）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 13,
+     "name": "マリアイリダータ",
+     "popularity": 1,
+     "jockey": "戸崎圭太",
+     "passing": "7-7-6-2",
+     "last3f": "36.1",
+     "comment": "好位から4コーナーで2番手に進出し、直線で抜け出した"
+    },
+    {
+     "finish": "2",
+     "number": 3,
+     "name": "ゼンダンハヤブサ",
+     "popularity": 11,
+     "jockey": "酒井",
+     "passing": "1-1-2-1",
+     "last3f": "36.6",
+     "comment": "逃げて粘ったが1馬身3/4差及ばず"
+    },
+    {
+     "finish": "3",
+     "number": 1,
+     "name": "カラマティアノス",
+     "popularity": 4,
+     "jockey": "津村明秀",
+     "passing": "8-6-9-10",
+     "last3f": "36.3",
+     "comment": "中団から終い伸びて3着"
+    },
+    {
+     "finish": "4",
+     "number": 10,
+     "name": "カテリーナ",
+     "popularity": 8,
+     "jockey": "浜中俊",
+     "passing": "14-15-15-13",
+     "last3f": "35.9",
+     "comment": "後方から上がり最速で追い込んで4着"
+    },
+    {
+     "finish": "5",
+     "number": 4,
+     "name": "ボーンディスウェイ",
+     "popularity": 15,
+     "jockey": "木幡巧",
+     "passing": "6-8-10-8",
+     "last3f": "36.4",
+     "comment": "中団から終い伸びて5着"
+    },
+    {
+     "finish": "6",
+     "number": 15,
+     "name": "キャントウェイト",
+     "popularity": 3,
+     "jockey": "横山典弘",
+     "passing": "11-9-8-3",
+     "last3f": "36.5",
+     "comment": "中団から4コーナーで3番手に進出したが6着"
+    },
+    {
+     "finish": "7",
+     "number": 11,
+     "name": "フォルテアンジェロ",
+     "popularity": 2,
+     "jockey": "マーカンド",
+     "passing": "4-5-5-7",
+     "last3f": "36.7",
+     "comment": "好位のまま伸びず"
+    },
+    {
+     "finish": "8",
+     "number": 12,
+     "name": "アラタ",
+     "popularity": 12,
+     "jockey": "大野拓弥",
+     "passing": "15-13-11-14",
+     "last3f": "36.7",
+     "comment": "後方から見せ場なく"
+    },
+    {
+     "finish": "9",
+     "number": 8,
+     "name": "ヨヒーン",
+     "popularity": 5,
+     "jockey": "鮫島克駿",
+     "passing": "13-14-12-12",
+     "last3f": "36.8",
+     "comment": "後方から追い上げたが9着まで"
+    },
+    {
+     "finish": "10",
+     "number": 6,
+     "name": "バルナバ",
+     "popularity": 13,
+     "jockey": "斎藤新",
+     "passing": "9-10-7-11",
+     "last3f": "37.1",
+     "comment": "中団から直線で伸びを欠いた"
+    },
+    {
+     "finish": "11",
+     "number": 2,
+     "name": "ヴィスマール",
+     "popularity": 9,
+     "jockey": "小沢大仁",
+     "passing": "5-3-4-6",
+     "last3f": "37.4",
+     "comment": "先行したが直線で失速"
+    },
+    {
+     "finish": "12",
+     "number": 16,
+     "name": "レイニング",
+     "popularity": 6,
+     "jockey": "プーシャン",
+     "passing": "10-11-13-9",
+     "last3f": "37.2",
+     "comment": "中団から見せ場なく"
+    },
+    {
+     "finish": "13",
+     "number": 9,
+     "name": "バレエマスター",
+     "popularity": 14,
+     "jockey": "菊沢一樹",
+     "passing": "12-12-14-15",
+     "last3f": "37.5",
+     "comment": "後方のまま"
+    },
+    {
+     "finish": "14",
+     "number": 7,
+     "name": "シリウスコルト",
+     "popularity": 10,
+     "jockey": "田辺裕信",
+     "passing": "2-2-1-5",
+     "last3f": "39.5",
+     "comment": "2番手から3コーナーで先頭に立ったが直線で大きく失速"
+    },
+    {
+     "finish": "15",
+     "number": 14,
+     "name": "サヴォーナ",
+     "popularity": 7,
+     "jockey": "横山武史",
+     "passing": "3-4-3-4",
+     "last3f": "41.2",
+     "comment": "先行したが直線で大きく失速し最下位"
+    }
+   ]
+  },
+  {
+   "venue": "福島競馬場",
+   "raceNumber": 12,
+   "raceName": "サラ系3歳以上1勝クラス",
+   "surface": "芝",
+   "distance": 1200,
+   "courseTrait": "福島芝1200mはスタート後すぐに下り坂の3コーナーへ向かいペースが上がりやすく、内枠・先行有利の傾向が強いコース。",
+   "raceFlow": "ペースはハイ（テン3F 34.7／上がり3F 36.2）。逃げた4ヤマニンフェイエルは3着に粘り、中団から進出した勝ち馬が差し切る決着。1番人気グロリアスマーチは10着に敗れた。",
+   "winnerStyle": "差し型（通過4-5、中団から直線で伸びて差し切った）",
+   "horses": [
+    {
+     "finish": "1",
+     "number": 1,
+     "name": "ステキサプライズ",
+     "popularity": 5,
+     "jockey": "永島まなみ",
+     "passing": "4-5",
+     "last3f": "35.9",
+     "comment": "中団から直線で伸びて差し切った"
+    },
+    {
+     "finish": "2",
+     "number": 14,
+     "name": "マテンロウカナロア",
+     "popularity": 3,
+     "jockey": "富田暁",
+     "passing": "6-4",
+     "last3f": "36.2",
+     "comment": "中団から4コーナーで進出して2着"
+    },
+    {
+     "finish": "3",
+     "number": 4,
+     "name": "ヤマニンフェイエル",
+     "popularity": 4,
+     "jockey": "西村淳",
+     "passing": "1-1",
+     "last3f": "36.5",
+     "comment": "逃げて粘ったが3着"
+    },
+    {
+     "finish": "4",
+     "number": 7,
+     "name": "ルシェロアズーリ",
+     "popularity": 2,
+     "jockey": "小林美駒",
+     "passing": "2-2",
+     "last3f": "36.5",
+     "comment": "2番手追走から粘って4着"
+    },
+    {
+     "finish": "5",
+     "number": 10,
+     "name": "ダブルチャレンジ",
+     "popularity": 9,
+     "jockey": "吉田隼人",
+     "passing": "11-7",
+     "last3f": "36.0",
+     "comment": "後方から終い伸びて5着"
+    },
+    {
+     "finish": "6",
+     "number": 6,
+     "name": "ブライトフレア",
+     "popularity": 10,
+     "jockey": "浜中俊",
+     "passing": "15-14",
+     "last3f": "35.6",
+     "comment": "後方から上がり最速で追い上げて6着"
+    },
+    {
+     "finish": "7",
+     "number": 15,
+     "name": "レッドカメリア",
+     "popularity": 8,
+     "jockey": "嶋田純次",
+     "passing": "14-15",
+     "last3f": "36.1",
+     "comment": "後方から追い上げたが7着まで"
+    },
+    {
+     "finish": "8",
+     "number": 11,
+     "name": "レモンバーム",
+     "popularity": 14,
+     "jockey": "丹内祐次",
+     "passing": "3-3",
+     "last3f": "37.0",
+     "comment": "先行したが直線で伸びを欠いた"
+    },
+    {
+     "finish": "9",
+     "number": 3,
+     "name": "テリオスルル",
+     "popularity": 15,
+     "jockey": "江田照",
+     "passing": "8-9",
+     "last3f": "36.6",
+     "comment": "中団から直線で後退"
+    },
+    {
+     "finish": "10",
+     "number": 13,
+     "name": "グロリアスマーチ",
+     "popularity": 1,
+     "jockey": "鮫島克駿",
+     "passing": "7-8",
+     "last3f": "36.9",
+     "comment": "中団から直線で伸びを欠いた"
+    },
+    {
+     "finish": "11",
+     "number": 8,
+     "name": "アウローラシエル",
+     "popularity": 12,
+     "jockey": "河原田菜々",
+     "passing": "9-10",
+     "last3f": "36.9",
+     "comment": "中団のまま"
+    },
+    {
+     "finish": "12",
+     "number": 5,
+     "name": "ステートオブロック",
+     "popularity": 7,
+     "jockey": "丸山",
+     "passing": "10-13",
+     "last3f": "36.7",
+     "comment": "中団から直線で後退"
+    },
+    {
+     "finish": "13",
+     "number": 2,
+     "name": "ニルマーネル",
+     "popularity": 6,
+     "jockey": "吉田豊",
+     "passing": "13-12",
+     "last3f": "36.6",
+     "comment": "後方から見せ場なく"
+    },
+    {
+     "finish": "14",
+     "number": 12,
+     "name": "グランルーチェ",
+     "popularity": 16,
+     "jockey": "国分恭",
+     "passing": "12-11",
+     "last3f": "36.9",
+     "comment": "後方のまま"
+    },
+    {
+     "finish": "15",
+     "number": 9,
+     "name": "グリフォン",
+     "popularity": 13,
+     "jockey": "小沢大仁",
+     "passing": "5-6",
+     "last3f": "37.5",
+     "comment": "好位から直線で失速"
+    },
+    {
+     "finish": "16",
+     "number": 16,
+     "name": "シャインズオンユー",
+     "popularity": 11,
+     "jockey": "原",
+     "passing": "16-16",
+     "last3f": "36.7",
+     "comment": "終始後方で最下位"
+    }
+   ]
+  }
+ ]
+}
