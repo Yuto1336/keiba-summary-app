@@ -274,109 +274,107 @@
    "courseTrait": "東京芝2000mは直線約526mと長く、上がりの速い差し馬が強い。スローからの瞬発力勝負になりやすく、逃げ切りは難しい。",
    "pace": "逃げはゴーラッキーとログラールの2頭で、ハナ争いになれば平均〜やや速めの流れになりそう。先行勢はマイネルフーガ、オストラヴァ、スピンザブラッドら。東京芝2000mは直線が長く、ペースが上がれば中団〜後方の差し馬にも出番が回ってくる。",
    "favored": "好位で運べるマイネルフーガ、ハナを切れれば粘るゴーラッキーとログラール、流れが速くなれば中団から差すカニキュルとユキワリザクラ。",
-   "notes": [
-    "枠順・馬番は11月28日午前に発表予定のため、現時点では未掲載。出走馬13頭・騎手は確定済みで、掲載順はnetkeibaの掲載順（馬番順と推定）。"
-   ],
+   "notes": [],
    "horses": [
     {
-     "number": null,
-     "bracket": null,
+     "number": 13,
+     "bracket": 8,
      "name": "アスクコモンタレヴ",
      "jockey": "武豊",
      "style": "差し〜追い込み",
      "comment": "近走は6〜16番手の中団〜後方で運ぶ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 5,
+     "bracket": 4,
      "name": "オストラヴァ",
      "jockey": "津村明秀",
      "style": "先行〜差し",
      "comment": "2〜10番手と位置取りに幅があり、好位〜中団で運ぶことが多い"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 9,
+     "bracket": 6,
      "name": "カニキュル",
      "jockey": "J.モレイラ",
      "style": "差し",
      "comment": "近走は7〜13番手の中団〜後方で運ぶ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 4,
+     "bracket": 4,
      "name": "カリーニョ",
      "jockey": "W.ビュイック",
      "style": "先行〜差し",
      "comment": "3〜6番手の好位で運んだこともあるが、前走は18番手後方と位置取りに幅がある"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 6,
+     "bracket": 5,
      "name": "ゴーラッキー",
      "jockey": "C.ルメール",
      "style": "逃げ〜先行",
      "comment": "ハナを切ることが多く、近走は1〜5番手で運ぶ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 2,
+     "bracket": 2,
      "name": "スパークリシャール",
      "jockey": "A.プーシャン",
      "style": "差し〜追い込み",
      "comment": "近走は6〜18番手の中団〜後方で運ぶ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 3,
+     "bracket": 3,
      "name": "スピンザブラッド",
      "jockey": "M.バルザローナ",
      "style": "先行〜差し",
      "comment": "3〜11番手と位置取りに幅があり、好位〜中団で運ぶことが多い"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 12,
+     "bracket": 8,
      "name": "ピンキープロミス",
      "jockey": "木幡巧也",
      "style": "先行〜差し",
      "comment": "4〜15番手と位置取りに幅があり、中団で運ぶことが多い"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 7,
+     "bracket": 5,
      "name": "マイネルブリックス",
      "jockey": "菊沢一樹",
      "style": "差し〜追い込み",
      "comment": "近走は6〜17番手の中団〜後方で運ぶ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 8,
+     "bracket": 6,
      "name": "マイネルフーガ",
      "jockey": "T.マーカンド",
      "style": "先行",
      "comment": "近走は2〜5番手の好位で運ぶ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 10,
+     "bracket": 7,
      "name": "ユキワリザクラ",
      "jockey": "三浦皇成",
      "style": "差し",
      "comment": "近走は6〜12番手の中団で運ぶ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 11,
+     "bracket": 7,
      "name": "ログラール",
      "jockey": "C.スミヨン",
      "style": "逃げ〜先行",
      "comment": "ハナを切ることが多く、近走は1〜5番手で運ぶ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 1,
+     "bracket": 1,
      "name": "ローベルクランツ",
      "jockey": "C.デムーロ",
      "style": "差し〜追い込み",
@@ -556,101 +554,99 @@
    "courseTrait": "京都ダート1400mはワンターンで直線約353m。先行・好位で運べる馬が有利な傾向で、ペースが速くなれば中団の差し馬にも出番が回ってくる。",
    "pace": "逃げ候補はメイクアリープ、レアンダー、エコロアゼルの3頭で、ハナ争いになれば平均〜やや速めの流れになりそう。先行勢はアスクアイルビゼア、ハワイアンタイム、スリールミニョンらと厚い。京都ダート1400mは先行有利のコースで、好位の粘り込みがポイント。ペースが速くなれば中団の差し馬にも出番が回ってくる。",
    "favored": "好位で運べるアスクアイルビゼアとハワイアンタイム、ハナを切れれば粘るメイクアリープ、流れが速くなれば中団から差すスリーピースとルークススペイ。",
-   "notes": [
-    "枠順・馬番は11月28日午前に発表予定のため、現時点では未掲載。出走馬12頭・騎手は確定済みで、掲載順はnetkeibaの掲載順（馬番順と推定）。"
-   ],
+   "notes": [],
    "horses": [
     {
-     "number": null,
-     "bracket": null,
+     "number": 7,
+     "bracket": 6,
      "name": "アスクアイルビゼア",
      "jockey": "岩田康誠",
      "style": "先行",
      "comment": "近走は2〜5番手の好位で運ぶ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 1,
+     "bracket": 1,
      "name": "エコロアゼル",
      "jockey": "松若風馬",
      "style": "先行〜差し",
      "comment": "前走はハナを切ったが、近走は6〜14番手と位置取りに幅がある"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 9,
+     "bracket": 7,
      "name": "シゲルショウグン",
      "jockey": "田口貫太",
      "style": "先行〜差し",
      "comment": "1〜7番手と位置取りに幅があり、好位〜中団で運ぶことが多い"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 12,
+     "bracket": 8,
      "name": "スリーピース",
      "jockey": "佐々木大輔",
      "style": "先行〜差し",
      "comment": "3〜10番手の好位〜中団で運ぶ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 6,
+     "bracket": 5,
      "name": "スリールミニョン",
      "jockey": "永島まなみ",
      "style": "先行",
      "comment": "直近4走すべて芝で2〜5番手の好位で運ぶ。ダートは初挑戦"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 11,
+     "bracket": 8,
      "name": "ニシキギミッチー",
      "jockey": "北村友一",
      "style": "追い込み",
      "comment": "近走は12〜15番手の後方一気型"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 3,
+     "bracket": 3,
      "name": "ノーブルロジャー",
      "jockey": "菅原明良",
      "style": "差し〜追い込み",
      "comment": "近走は7〜14番手の中団〜後方で運ぶ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 4,
+     "bracket": 4,
      "name": "ハワイアンタイム",
      "jockey": "太宰啓介",
      "style": "先行",
      "comment": "近走は2〜4番手の好位で運ぶ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 2,
+     "bracket": 2,
      "name": "ヒルノドゴール",
      "jockey": "酒井学",
      "style": "差し〜追い込み",
      "comment": "近走は7〜13番手の中団〜後方で運ぶ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 5,
+     "bracket": 5,
      "name": "メイクアリープ",
      "jockey": "幸英明",
      "style": "逃げ〜先行",
      "comment": "ハナを切ることが多く、近走は1〜3番手で運ぶ"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 10,
+     "bracket": 7,
      "name": "ルークススペイ",
      "jockey": "川田将雅",
      "style": "先行〜差し",
      "comment": "2〜16番手と位置取りに幅があり、好位〜中団で運ぶことが多い"
     },
     {
-     "number": null,
-     "bracket": null,
+     "number": 8,
+     "bracket": 6,
      "name": "レアンダー",
      "jockey": "菱田裕二",
      "style": "逃げ〜先行",
